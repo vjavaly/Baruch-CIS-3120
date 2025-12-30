@@ -1,0 +1,2064 @@
+study_session_id;student_id;session_date;subject;study_hours;is_group_study
+10033;999;2024-06-06;SQL;0.9;True
+10079;735;2024-03-20;SQL;7.0;True
+11556;761;2024-03-23;Statistics;5.7;True
+10186;630;2024-07-04;Machine Learning;6.2;False
+10457;809;2024-04-30;Python;5.5;False
+11816;108;2024-09-22;Machine Learning;5.4;True
+10857;869;2024-09-08;Statistics;2.3;False
+11878;500;2024-03-21;Python;1.5;False
+10705;642;2024-07-02;Machine Learning;8.0;True
+10803;862;2024-06-06;Economics;6.4;False
+11642;745;2024-08-06;Python;0.8;False
+10495;152;2024-05-17;Economics;5.6;True
+11342;305;2024-11-08;Economics;1.8;False
+11034;817;2024-07-09;Statistics;6.9;False
+11517;130;2024-02-20;Python;6.7;False
+10564;647;2024-09-16;Economics;4.6;False
+11318;957;2024-09-10;Economics;6.3;True
+10568;915;2024-08-08;Python;0.6;False
+11700;972;2024-09-21;Statistics;7.6;False
+10878;808;2024-10-23;SQL;6.0;True
+10670;124;2024-04-29;Machine Learning;3.1;True
+10633;202;2024-03-12;Python;4.9;False
+11498;872;2024-10-02;Python;7.8;True
+11324;112;2024-05-27;Economics;3.4;False
+10096;904;2024-10-23;Machine Learning;5.4;False
+11050;421;2024-06-11;Statistics;5.8;False
+10790;698;2024-02-22;Python;4.3;False
+10109;560;2024-05-12;SQL;6.8;False
+11682;605;2024-06-04;SQL;2.1;True
+11580;404;2024-04-17;SQL;7.4;False
+11293;668;2024-07-15;Statistics;6.8;True
+11255;123;2024-10-22;Statistics;5.3;True
+10529;178;2024-06-02;SQL;4.7;False
+11902;227;2024-09-30;Economics;1.8;True
+11877;477;2024-09-22;Python;1.8;False
+11564;472;2024-12-09;Python;3.5;True
+10585;456;2024-06-29;Economics;5.1;False
+10473;887;2024-03-10;Economics;3.3;False
+11996;786;2024-03-04;SQL;7.4;False
+11331;788;2024-01-05;Python;0.6;True
+10229;643;2024-09-13;Statistics;6.7;False
+10849;285;2024-11-08;Economics;6.3;True
+10949;769;2024-03-17;Statistics;3.4;False
+11435;888;Jan 25, 2024;SQL;3.1;False
+11973;181;2024-05-30;Python;3.3;False
+11001;970;2024-12-02;Machine Learning;2.6;True
+11716;458;2024-06-02;Statistics;5.5;True
+10749;957;2024-05-17;Machine Learning;1.0;True
+10995;904;2024-06-22;Machine Learning;5.1;True
+10296;894;2024-06-27;Statistics;6.0;True
+10325;554;2024-11-08;Statistics;6.1;False
+10893;860;2024-11-27;Machine Learning;3.4;False
+10196;448;2024-09-16;Statistics;6.7;False
+10747;289;2024-07-08;Economics;3.3;False
+11918;204;2024-12-30;Machine Learning;6.4;True
+12026;707;2024-08-10;SQL;5.2;False
+11453;782;2024-07-03;Economics;1.6;False
+11623;966;2024-03-16;Python;3.1;True
+10534;892;2024-06-16;Python;5.3;False
+11401;853;2024-05-06;SQL;3.0;True
+11604;341;12-Nov-2024;Economics;7.3;False
+11920;794;2024-12-21;SQL;3.0;False
+10308;831;2024-02-13;Machine Learning;5.3;True
+10768;863;2024-08-31;Statistics;7.2;True
+11158;857;2024-10-02;SQL;2.0;False
+11621;546;2024-02-29;Economics;0.8;False
+10179;699;2024-08-11;Economics;  7.8  ;False
+10005;703;2024-05-22;Python;6.2;True
+11055;999;2024-08-30;Machine Learning;0.9;False
+10470;360;2024-01-02;SQL;4.8;True
+10802;796;2024-06-20;Python;missing;True
+11640;601;2024-08-16;Economics;4.1;False
+10149;535;2024-15-01;Statistics;3.1;False
+11616;997;2024-05-14;Machine Learning;6.7;False
+11879;589;2024-02-05;Economics;7.7;True
+10785;585;2024-03-08;SQL;5.0;True
+10329;265;2024-04-12;Machine Learning;1.5;False
+10422;771;2024-10-23;Machine Learning;  2.2  ;True
+11044;452;2024-01-11;Economics;1.4;True
+11947;104;2024-01-07;Machine Learning;6.0;False
+11362;794;2024-10-01;SQL;6.1;True
+11809;701;2024-04-08;Python;1.3;True
+11018;177;2024-10-10;SQL;4.1;False
+10820;845;2024-09-23;Machine Learning;4.4;False
+11528;675;2024-03-21;Machine Learning;0.9;False
+11214;350;2024-10-07;Statistics;5.1;True
+11698;255;2024-09-28;Economics;6.4;True
+11797;960;2024-05-08;SQL;1.3;True
+10753;686;2024-04-30;Economics;2.7;False
+11516;225;2024-05-08;Economics;-5.0;True
+10728;314;2024-05-07;Python;3.1;True
+10417;435;2024-11-09;Statistics;1.7;False
+10228;305;2024-03-08;Machine Learning;7.1;False
+11709;186;2024-01-19;Machine Learning;3.0;True
+10676;752;2024-07-20;Python;4.9;True
+10180;456;2024-07-28;Statistics;2.9;True
+10860;190;2024-09-12;Economics;2.9;False
+10251;702;2024-06-14;Python;  1.8  ;True
+10270;329;2024-02-25;Statistics;6.8;False
+10132;419;2024-10-21;Economics;3.5;True
+10971;999;2024-12-04;Statistics;7.6;True
+11285;563;2024-09-29;Statistics;3.4;False
+11056;636;2024-02-12;Python;2.5;True
+10345;346;2024-10-19;Economics;1.9;True
+10070;834;2024-06-24;SQL;5.7;False
+10957;147;2024-01-21;Statistics;1.3;False
+10754;974;2024-01-18;Machine Learning;4.8;True
+11363;173;2024-01-19;SQL;4.2;True
+11301;520;2024-10-06;Machine Learning;3.3;True
+10305;573;2024-10-24;Machine Learning;7.7;True
+10463;638;2024-08-16;Machine Learning;5.8;True
+10315;771;2024-12-23;Economics;1.5;True
+10014;266;2024-07-08;Statistics;2.1;False
+10919;671;2024-02-06;Machine Learning;6.7;False
+11173;772;2024-03-11;Python;6.0;True
+11258;380;2024-02-28;Python;7.7;True
+10616;948;2024-05-25;Statistics;4.6;True
+11460;754;2024-05-19;Economics;1.8;False
+11775;906;2024-11-28;Python;4.5;False
+11163;778;2024-12-03;Statistics;7.0;True
+10008;467;2024-06-25;Machine Learning;2.5;True
+10166;260;2024-01-02;Economics;3.9;False
+10713;120;2024-09-26;Economics;0.5;True
+10003;338;2024-09-15;Machine Learning;0.7;True
+11569;533;2024-04-21;SQL;1.3;True
+11047;180;2024-07-14;Machine Learning;2.6;True
+10284;713;2024-01-29;Python;2.0;True
+10946;844;2024-02-08;Python;6.9;True
+10722;230;2024-03-31;Python;7.6;False
+11084;224;2024-05-07;Economics;6.3;False
+10402;984;2024-11-11;Economics;2.4;True
+11583;961;2024-06-19;Economics;7.1;True
+11066;110;2024-01-01;Machine Learning;6.6;True
+10716;892;2024-02-26;Machine Learning;7.0;True
+11662;979;2024-01-14;SQL;4.1;True
+11845;312;2024-04-22;SQL;3.9;True
+11370;956;2024-04-19;Python;4.9;False
+11739;504;2024-06-22;Machine Learning;0.8;False
+12000;927;2024-04-29;SQL;2.4;False
+11096;228;2024-09-06;SQL;2.9;False
+11970;680;2024-04-18;SQL;2.0;True
+10843;109;2024-03-11;SQL;3.0;False
+10622;184;2024-07-09;SQL;0.9;False
+11725;596;2024-12-30;Economics;1.5;True
+10292;951;2024-12-19;Statistics;1.2;True
+11754;484;2024-03-02;Python;2.0;True
+10032;713;2024-06-14;Economics;0.6;False
+10950;237;2024-08-25;Machine Learning;4.3;False
+11715;564;2024-06-22;SQL;6.5;True
+10334;524;2024-01-28;Economics;4.3;True
+11711;633;2024-06-23;SQL;0.7;False
+11373;349;2024-10-24;Python;1.5;False
+10733;401;2024-01-11;Statistics;2.5;True
+10409;237;2024-05-15;Statistics;6.2;False
+11589;261;2024-05-07;Machine Learning;5.9;True
+10590;668;2024-03-26;Economics;2.7;True
+11810;707;2024-04-09;Machine Learning;1.4;False
+10555;590;2024-06-09;SQL;7.7;False
+11770;750;2024-05-13;Economics;2.5;False
+11425;292;2024-08-22;Python;1.1;True
+10451;114;2024-06-21;Statistics;4.8;True
+11059;639;2024-03-28;Python;0.8;False
+10298;716;2024-03-19;Python;1.8;False
+12010;614;2024-12-18;Python;2.6;False
+11204;749;2024-07-04;Python;4.4;False
+11148;674;2024-11-11;Machine Learning;2.3;True
+11982;994;2024-06-18;Python;0.5;False
+11126;945;2024-06-14;Machine Learning;2.3;True
+10395;594;2024-05-05;Economics;2.7;True
+10184;891;2024-07-25;Machine Learning;6.7;True
+11172;668;2024-05-23;SQL;1.6;False
+10673;603;2024-01-31;SQL;5.8;True
+10634;459;2024-08-07;Statistics;6.4;True
+11813;230;2024-06-08;Machine Learning;3.8;False
+11171;931;2024-02-01;Statistics;7.1;True
+10461;525;2024-12-25;Machine Learning;7.3;True
+11555;749;??/??/????;Economics;2.5;False
+10715;160;2024-01-12;SQL;4.9;True
+10477;405;2024-08-25;Machine Learning;3.7;False
+10314;183;2024-10-25;SQL;7.4;False
+10211;554;2024-03-26;Statistics;7.3;True
+10667;305;2024-05-29;Machine Learning;6.4;True
+10043;785;2024-09-05;SQL;4.5;False
+11263;208;2024-07-15;Python;1.1;False
+11174;527;2024-05-03;Machine Learning;1.6;False
+10607;978;2024-09-20;Python;1.5;False
+11994;208;2024-08-10;Python;1.7;False
+11823;607;2024-04-22;Python;5.3;True
+10682;888;2024-04-16;Economics;2.8;False
+10223;720;2024-09-11;Statistics;6.3;True
+11726;811;2024-04-18;Economics;4.1;True
+11895;573;2024-01-14;Python;5.3;False
+12018;199;2024-03-08;Statistics;6.1;True
+10181;978;2024-03-23;Statistics;3.6;False
+10524;611;2024-08-10;Statistics;4.7;True
+11413;814;2024-11-09;Machine Learning;4.8;True
+11753;427;2024-03-13;Economics;7.2;False
+10605;683;2024-06-28;Machine Learning;2.6;True
+10465;686;2024-10-01;SQL;1.7;False
+10744;126;2024-04-15;SQL;  5.3  ;True
+10002;704;2024-08-04;Python;0.7;True
+10017;755;2024-12-18;Machine Learning;2.1;False
+11697;481;2024-07-31;Statistics;5.2;True
+10594;525;2024-12-29;Economics;4.2;True
+10807;642;2024-06-01;Economics;0.9;True
+11089;984;2024-12-07;SQL;7.8;True
+11701;249;2024-01-06;Machine Learning;7.6;True
+11632;771;2024-11-14;Economics;2.9;True
+11188;133;2024-07-28;Python;7.4;False
+11758;119;2024-05-17;Machine Learning;7.7;True
+12013;968;2024-04-25;Python;7.4;True
+11592;918;2024-05-24;SQL;1.1;False
+10569;327;2024-09-18;Machine Learning;4.7;True
+10642;881;2024-08-29;Python;0.6;True
+10165;776;2024-02-11;SQL;2.3;True
+11867;447;2024-04-25;Economics;3.7;False
+11288;967;2024-03-06;Statistics;1.0;True
+11348;372;2024-03-18;Statistics;  7.3  ;True
+11567;608;2024-02-16;SQL;5.0;False
+10318;620;2024-07-04;Python;3.2;True
+10897;949;2024-04-25;Statistics;6.2;True
+10913;428;2024-09-20;Python;7.6;True
+11467;129;2024-03-02;Statistics;4.2;True
+11840;314;2024-02-11;Economics;6.4;True
+11344;728;not_a_date;Python;7.3;False
+10551;568;2024-02-24;SQL;2.8;False
+10818;492;2024-09-14;Machine Learning;2.8;True
+11783;940;2024-11-22;Economics;1.3;False
+10205;115;2024-03-14;Economics;7.0;True
+11752;285;2024-01-14;Python;2.7;True
+11106;774;2024-10-02;Economics;1.9;False
+11278;903;2024-08-10;Machine Learning;6.4;True
+11658;571;2024-12-20;Economics;7.0;False
+11098;466;Mar 09, 2024;Statistics;7.2;False
+11032;661;2024-05-14;SQL;2.5;False
+11519;256;2024-06-04;Machine Learning;5.2;True
+11949;493;2024-09-07;Statistics;5.3;True
+11071;504;2024-05-07;SQL;5.9;False
+11744;223;2024-12-03;Machine Learning;1.8;True
+11550;119;2024-11-17;Machine Learning;7.0;False
+10537;890;2024-11-12;Statistics;6.5;True
+11077;292;2024-06-13;Python;1.6;True
+11798;448;2024-01-28;Statistics;4.4;True
+11811;463;2024-08-03;Economics;5.9;False
+11095;161;2024-07-01;SQL;5.8;True
+11912;675;2024-11-16;SQL;5.2;False
+10093;667;2024-03-06;SQL;3.7;False
+11935;706;2024-10-08;SQL;2.3;True
+11160;811;2024-12-23;Python;3.3;True
+11210;234;2024-04-13;Python;5.2;False
+11228;604;2024-04-02;Machine Learning;2.2;False
+10010;180;2024-10-09;Statistics;  6.7  ;False
+11833;928;2024-07-09;SQL;7.6;False
+10023;470;2024-04-22;SQL;4.3;True
+11109;144;2024-03-07;SQL;7.1;True
+10863;910;2024-11-05;Machine Learning;5.3;True
+11306;727;2024-01-28;Statistics;4.5;True
+11943;709;2024-10-02;SQL;4.6;True
+11515;623;2024-05-22;SQL;6.3;True
+10316;417;2024-10-13;Economics;5.3;False
+11948;603;2024-07-26;Economics;7.6;False
+11614;245;2024-05-13;Python;2.8;True
+11371;164;??/??/????;Statistics;1.6;False
+10938;298;2024-06-11;Economics;3.9;False
+10185;773;2024-10-04;Economics;3.6;True
+11353;474;2024-09-30;Statistics;1.1;False
+10055;693;2024-10-04;Python;6.1;True
+11266;830;2024-12-09;Machine Learning;1.1;False
+11091;698;2024-03-02;Economics;6.4;True
+11094;802;2024-11-12;Statistics;7.5;True
+10975;564;2024-11-01;Machine Learning;1.0;False
+10806;583;09-Apr-2024;Machine Learning;1.4;False
+10099;195;2024-04-30;Statistics;2.2;True
+10752;938;2024-09-24;Economics;7.7;False
+11178;540;2024-03-15;Machine Learning;7.4;False
+11932;633;2024-06-13;SQL;3.8;True
+10812;690;2024-03-22;Economics;6.4;True
+11575;961;2024-12-05;Python;5.7;True
+10120;230;2024-11-14;Machine Learning;0.7;False
+11480;204;not_a_date;SQL;4.3;True
+10606;431;2024-12-26;Statistics;2.7;False
+10156;753;2024-09-08;Python;7.0;False
+11220;886;2024-06-02;Statistics;3.3;False
+11298;565;2024-09-17;Economics;4.6;False
+11321;153;2024-03-26;Economics;3.5;False
+10408;392;2024-10-01;Python;6.9;False
+10095;661;2024-01-01;Statistics;2.7;False
+10273;723;2024-12-02;Statistics;0.7;False
+10471;533;2024-06-25;Python;4.6;True
+10240;701;2024-03-20;Economics;  5.4  ;False
+11064;593;2024-10-03;SQL;6.5;False
+11634;861;2024-02-06;Machine Learning;7.6;False
+11822;528;2024-06-17;SQL;1.3;True
+11116;641;2024-01-21;Python;6.8;True
+11060;981;2024-06-15;Economics;4.0;False
+10910;495;2024-05-11;Machine Learning;5.9;True
+10339;181;2024-01-10;Statistics;2.1;True
+11358;837;2024-10-30;SQL;4.2;True
+11952;621;2024-12-29;Economics;5.3;False
+11501;488;2024-08-05;SQL;4.4;False
+10933;298;2024-02-28;SQL;5.5;True
+11194;998;2024-05-05;Machine Learning;4.5;True
+11576;359;2024-10-09;Economics;2.8;False
+10544;984;2024-07-16;Python;2.7;False
+10388;301;2024-11-21;Machine Learning;2.6;False
+10885;788;2024-03-08;SQL;4.3;False
+10666;435;Feb 14, 2024;Machine Learning;3.9;False
+10177;883;2024-12-10;Statistics;4.8;True
+10013;489;2024-05-22;Economics;5.3;False
+11857;295;2024-12-27;Machine Learning;8.0;False
+11812;290;2024-05-04;SQL;6.5;True
+10051;871;2024-05-01;SQL;3.5;False
+11420;871;2024-04-25;Statistics;3.1;False
+11774;523;2024-10-11;Economics;6.2;True
+10073;103;2024-06-19;SQL;5.3;False
+11074;391;2024-11-28;Machine Learning;6.6;False
+10366;472;2024-09-19;SQL;7.6;True
+11322;587;2024-09-29;SQL;3.3;False
+11063;636;2024-11-23;Machine Learning;2.8;False
+10414;671;2024-07-06;SQL;2.0;False
+11729;635;2024-03-19;Python;3.3;False
+10889;248;2024-01-28;Python;2.0;True
+11683;118;2024-07-02;Statistics;3.2;True
+10330;153;2024-11-24;Economics;  7.1  ;True
+11118;644;2024-07-16;SQL;1.9;True
+11828;144;2024-01-16;SQL;2.0;True
+10157;580;2024-09-02;Economics;3.1;True
+10704;930;2024-05-23;Python;6.6;False
+11463;954;2024-10-26;Statistics;4.2;False
+10338;877;2024-12-27;Economics;3.9;True
+10052;318;2024-07-24;Python;1.7;True
+11270;472;2024-07-19;SQL;5.7;False
+10220;303;2024-07-15;Economics;1.3;False
+10598;374;2024-10-05;Statistics;4.6;True
+10026;490;2024-11-01;Economics;4.5;True
+11885;573;2024-10-21;Python;6.0;False
+10829;585;2024-12-25;SQL;2.0;True
+10214;274;2024-03-30;Python;5.1;False
+10294;505;2024-06-07;Statistics;2.2;True
+11159;661;2024-09-04;Machine Learning;6.0;True
+10822;467;2024-04-06;SQL;7.6;False
+10884;305;2024-04-17;Machine Learning;5.9;False
+11578;978;2024-08-14;Economics;0.6;False
+10321;619;2024-10-03;Machine Learning;0.8;False
+10563;175;2024-08-17;Machine Learning;4.1;False
+10143;599;2024-04-18;Statistics;6.5;False
+11427;813;2024-03-16;Economics;1.6;True
+11986;117;2024-11-20;Statistics;7.1;False
+10501;577;2024-09-30;Statistics;2.8;False
+10912;598;2024-01-23;Statistics;7.2;True
+11416;152;2024-02-26;Economics;3.2;True
+10122;238;2024-08-24;SQL;0.9;False
+11028;981;2024-12-17;SQL;3.9;True
+10060;773;2024-10-25;Machine Learning;4.4;False
+10044;348;2024-08-30;Economics;1.9;True
+10576;763;2024-02-25;SQL;7.5;True
+10490;288;2024-10-02;Economics;2.3;True
+11314;114;2024-02-27;Machine Learning;1.8;True
+11025;602;2024-04-03;Machine Learning;2.6;True
+10071;617;2024-09-07;Statistics;  7.3  ;True
+10354;142;2024-06-10;Statistics;4.4;False
+11296;773;2024-08-11;SQL;1.1;False
+10357;547;2024-07-23;Economics;7.2;False
+10896;113;2024-05-08;SQL;5.2;False
+10596;330;2024-10-02;Statistics;1.8;False
+10824;316;2024-01-12;Machine Learning;4.3;True
+10869;660;2024-09-24;Statistics;5.8;True
+11154;304;2024-12-16;Statistics;1.7;True
+11213;564;2024-07-28;Economics;1.1;True
+11238;985;2024-10-01;Statistics;4.0;False
+10401;244;2024-02-19;Python;2.7;False
+11002;902;2024-11-02;Machine Learning;4.4;True
+10256;162;Sep 02, 2024;Economics;3.7;True
+11023;728;2024-01-04;Machine Learning;7.7;False
+11272;586;2024-02-27;Statistics;4.1;True
+11534;353;2024-04-30;Statistics;4.9;True
+10615;323;2024-08-07;SQL;4.2;False
+11418;674;2024-12-29;SQL;1.5;False
+11605;696;2024-12-16;Economics;1.1;False
+11782;820;2024-12-27;Machine Learning;2.1;True
+10527;656;2024-10-15;Python;1.8;False
+10720;824;2024-10-14;Machine Learning;6.4;True
+10036;371;2024-09-27;Machine Learning;3.7;True
+10024;873;2024-01-25;Python;1.6;True
+10291;121;2024-06-15;SQL;6.5;False
+10776;277;2024-04-08;SQL;6.8;True
+11675;843;2024-04-08;Economics;-5.0;True
+10134;970;2024-12-16;Machine Learning;6.5;True
+10864;770;2024-12-09;Economics;7.6;False
+11495;460;2024-03-23;Machine Learning;6.4;True
+10848;206;2024-08-01;Machine Learning;4.1;False
+12030;381;2024-11-19;Economics;3.3;True
+10263;508;2024-07-31;Python;  2.8  ;False
+11355;493;2024-12-04;SQL;2.7;False
+11150;215;2024-12-09;Economics;3.7;False
+10438;675;2024-12-22;Statistics;1.5;True
+11960;630;2024-04-06;Economics;1.7;False
+11145;661;2024-07-23;Statistics;1.1;False
+10056;151;2024-10-26;Economics;4.3;True
+10825;475;2024-12-30;Python;3.3;False
+11197;892;26-May-2024;Economics;1.7;False
+11022;259;2024-02-24;Python;7.4;False
+12033;380;2024-12-21;Python;6.5;True
+11361;515;2024-03-01;SQL;6.6;False
+10746;600;2024-12-04;Statistics;1.2;False
+10579;755;2024-12-02;Economics;3.5;True
+11745;381;2024-04-15;SQL;-5.0;False
+11135;851;2024-15-01;Statistics;6.4;True
+10823;119;2024-04-26;SQL;6.0;True
+11794;855;2024-04-25;Economics;7.7;True
+10393;885;2024-10-19;Economics;5.1;True
+10053;499;2024-05-15;Economics;2.6;False
+10948;137;2024-10-09;Statistics;4.6;False
+10170;535;2024-02-28;Machine Learning;2.2;True
+10512;169;2024-12-28;SQL;0.6;False
+10348;359;2024-01-09;Statistics;6.4;False
+11087;430;2024-03-22;Python;6.1;True
+11611;504;2024-12-09;Statistics;1.5;True
+11650;360;2024-10-26;Python;6.3;True
+11891;782;2024-02-04;SQL;7.3;False
+10188;394;2024-08-12;Economics;1.4;True
+10012;891;2024-05-28;Python;6.9;True
+11610;105;2024-05-09;Machine Learning;5.1;False
+10322;997;2024-11-12;SQL;5.0;True
+11414;906;2024-12-16;Python;5.2;False
+11802;901;2024-03-06;Python;7.4;False
+11273;389;2024-06-27;Machine Learning;4.8;True
+11779;109;2024-04-23;Python;6.2;False
+10731;659;2024-07-11;Python;6.7;True
+10224;721;2024-06-29;SQL;5.3;False
+11843;638;2024-12-21;Economics;5.9;False
+10432;889;2024-05-27;SQL;5.7;False
+10336;201;2024-11-28;Statistics;6.4;True
+10614;848;2024-08-22;Statistics;6.9;False
+11991;230;2024-09-11;Python;2.8;False
+11876;398;2024-12-03;Machine Learning;1.0;True
+11908;344;2024-04-12;Python;0.6;True
+10047;919;2024-02-25;SQL;1.9;False
+11205;844;2024-09-18;Machine Learning;7.6;False
+11599;947;2024-12-10;Economics;1.4;True
+11073;740;2024-05-02;Machine Learning;6.2;False
+11732;390;2024-04-20;SQL;6.6;False
+10238;138;2024-06-04;Economics;1.4;True
+10174;548;2024-02-11;Machine Learning;0.8;False
+10517;209;2024-02-19;Machine Learning;1.6;True
+11731;245;2024-10-28;Economics;0.9;False
+10081;901;2024-07-29;SQL;2.5;True
+10872;972;2024-07-20;SQL;3.9;True
+10828;526;2024-08-15;Economics;1.4;False
+10755;223;2024-08-17;SQL;7.6;True
+11422;481;2024-06-25;Economics;4.1;True
+10511;882;2024-01-04;Economics;1.5;True
+11433;568;2024-06-04;Machine Learning;1.5;False
+10817;331;2024-12-21;Statistics;2.8;True
+10410;146;2024-07-24;Python;4.8;True
+11929;633;2024-07-31;Statistics;6.1;True
+10871;209;2024-05-10;Machine Learning;2.0;True
+10215;734;2024-12-15;SQL;4.2;True
+11648;625;2024-02-25;Machine Learning;3.7;True
+11267;681;2024-03-08;Python;6.6;False
+10591;422;2024-08-18;Machine Learning;0.9;False
+10985;363;2024-04-06;Python;5.8;True
+10227;192;2024-05-31;Statistics;6.1;True
+11445;872;2024-10-20;SQL;6.5;False
+10698;762;2024-05-31;Economics;3.6;False
+10483;872;2024-01-29;SQL;4.3;False
+10351;950;2024-12-16;Economics;7.9;False
+11448;511;2024-11-12;SQL;3.8;True
+11558;351;2024-06-07;Economics;4.1;False
+11856;791;2024-06-17;Statistics;2.8;False
+10831;737;2024-11-06;SQL;3.6;True
+10851;215;2024-07-29;Economics;0.8;False
+11855;468;2024-01-20;Machine Learning;2.0;True
+11114;579;2024-11-23;Python;3.2;False
+11432;771;2024-11-26;Statistics;4.1;False
+10069;860;2024-10-10;SQL;2.5;True
+11826;471;2024-01-06;Python;3.2;True
+10045;774;2024-08-08;Statistics;3.7;False
+11110;209;2024-09-05;SQL;1.2;False
+10019;510;2024-05-17;Python;2.1;False
+10183;565;2024-02-15;Statistics;2.4;True
+10826;889;2024-09-30;Machine Learning;0.9;True
+10502;625;2024-09-11;Economics;1.2;False
+11703;544;2024-02-01;Economics;6.2;True
+11165;620;2024-12-29;Python;7.3;False
+11337;213;??/??/????;SQL;2.4;False
+11319;776;2024-08-13;SQL;2.1;False
+11470;482;2024-09-19;Machine Learning;0.6;False
+10139;730;2024-10-02;Economics;4.0;False
+11830;282;2024-04-10;Python;1.8;False
+11085;353;18-Jan-2024;SQL;4.0;True
+10309;353;2024-12-28;Economics;7.9;True
+10266;862;2024-07-09;SQL;4.7;False
+10879;206;2024-07-17;Machine Learning;5.0;False
+10116;977;2024-10-21;Economics;4.1;False
+10090;472;2024-08-08;Python;7.6;False
+10063;109;2024-08-22;Machine Learning;8.0;True
+10146;807;2024-08-31;Economics;3.9;True
+11351;805;2024-09-03;Python;4.8;False
+11039;969;2024-11-18;Machine Learning;4.5;False
+11402;705;2024-03-17;Machine Learning;7.2;False
+10144;386;2024-11-01;Statistics;4.7;True
+10004;833;2024-11-28;Machine Learning;3.6;False
+10842;536;2024-02-29;Python;6.9;True
+10810;440;2024-11-19;SQL;2.9;True
+10718;409;2024-06-14;SQL;7.8;False
+10486;523;2024-06-02;Statistics;1.0;True
+10538;184;2024-05-17;SQL;3.3;True
+10879;206;2024-07-17;Machine Learning;5.0;False
+11591;562;2024-09-01;SQL;2.5;False
+11767;407;2024-02-15;Economics;5.7;True
+10248;436;2024-03-16;Machine Learning;0.5;True
+11200;284;2024-10-26;Machine Learning;1.5;False
+10103;251;2024-12-01;Python;7.2;True
+10098;774;2024-02-13;Statistics;4.4;False
+11674;559;Dec 23, 2024;Economics;0.7;False
+11613;447;2024-08-27;SQL;1.2;False
+11615;611;2024-05-23;Statistics;7.4;False
+11226;537;2024-11-07;Statistics;  2.4  ;False
+10110;884;2024-09-23;Economics;5.2;False
+11644;607;2024-09-26;Machine Learning;1.1;False
+10279;259;2024-03-21;Machine Learning;0.9;True
+10384;231;2024-10-09;Machine Learning;1.9;True
+11785;775;2024-10-16;Machine Learning;4.7;True
+10358;447;2024-04-05;Economics;5.7;False
+10138;750;2024-08-23;SQL;3.8;False
+10299;575;2024-10-15;Machine Learning;3.9;False
+11730;410;2024-05-30;Economics;0.7;True
+11900;243;2024-08-29;Statistics;6.8;True
+11955;746;2024-12-27;Python;5.7;True
+11532;883;2024-11-16;Statistics;3.4;False
+10415;612;2024-01-21;Python;0.8;False
+10868;102;2024-06-23;Statistics;6.7;False
+10952;875;2024-09-20;SQL;3.8;True
+11545;834;2024-10-23;Python;4.9;False
+10364;844;2024-06-29;Machine Learning;8.0;False
+11115;941;2024-07-07;Python;6.7;False
+11928;237;2024-05-22;Statistics;5.3;True
+11424;562;2024-11-13;Statistics;6.5;True
+10068;999;2024-03-09;Statistics;1.4;True
+10811;104;2024-08-19;Statistics;2.1;True
+11295;763;2024-01-09;SQL;5.9;False
+11769;725;2024-09-15;Statistics;7.1;False
+11175;719;2024-06-17;Economics;4.6;True
+11963;211;2024-11-21;Machine Learning;6.3;False
+10058;709;2024-02-04;SQL;3.5;True
+10076;696;2024-10-09;SQL;3.7;True
+10368;341;2024-11-26;Statistics;  3.2  ;True
+11618;854;08-Sep-2024;SQL;4.7;False
+11469;989;2024-05-12;Economics;7.8;True
+11350;964;2024-02-05;Machine Learning;2.2;False
+11265;731;2024-07-01;Statistics;3.0;True
+10169;906;2024-11-16;Machine Learning;5.5;True
+11291;740;2024-06-11;Economics;3.5;False
+10599;878;2024-08-13;Machine Learning;2.1;False
+11653;421;2024-10-27;Economics;6.2;False
+11313;358;2024-03-08;Machine Learning;2.6;False
+10917;762;2024-02-06;SQL;0.7;False
+10244;162;2024-07-22;Statistics;1.9;True
+10124;384;2024-08-03;Statistics;6.8;False
+11892;880;2024-10-10;Python;8.0;True
+11261;172;2024-06-08;Machine Learning;7.2;False
+10447;997;2024-01-20;Python;2.7;True
+10706;202;2024-05-06;SQL;2.5;True
+10429;570;2024-09-29;Statistics;4.6;False
+11479;481;2024-09-05;Economics;3.1;True
+11129;710;2024-01-09;Machine Learning;1.5;False
+11057;186;2024-12-01;Economics;2.8;True
+10065;457;2024-02-05;SQL;3.3;True
+11950;518;2024-01-20;Python;3.4;True
+11240;668;2024-10-01;Python;2.1;False
+10960;629;2024-05-08;Economics;7.8;True
+10387;454;2024-09-22;Statistics;6.8;False
+10030;991;2024-11-16;Statistics;6.8;True
+11366;567;2024-11-08;SQL;6.8;True
+10203;607;19-Jan-2024;SQL;4.3;False
+11409;565;2024-08-25;SQL;7.1;False
+10391;962;2024-10-15;Python;6.7;True
+10787;829;2024-12-29;Statistics;3.7;False
+10793;755;2024-06-15;Statistics;2.5;False
+10954;467;2024-01-21;SQL;6.2;True
+12008;796;2024-08-21;SQL;5.0;True
+10474;559;2024-07-12;Economics;1.1;True
+10478;943;2024-04-27;SQL;4.0;True
+11852;283;2024-08-14;SQL;2.5;True
+10833;609;2024-04-11;Machine Learning;2.0;False
+10443;874;2024-05-27;Statistics;2.6;True
+11766;699;2024-09-18;Statistics;0.8;True
+11393;248;2024-04-20;Machine Learning;3.9;False
+11333;357;2024-04-08;Python;0.7;True
+10192;621;2024-12-27;Statistics;3.6;False
+10567;676;2024-11-26;Economics;7.8;False
+11294;395;2024-12-09;SQL;1.5;True
+11864;314;2024-08-12;Economics;6.9;True
+10006;814;2024-08-04;Statistics;2.6;True
+10439;348;2024-01-26;Machine Learning;2.2;True
+10289;179;2024-06-09;Machine Learning;3.7;False
+10730;270;2024-07-30;Economics;7.1;False
+10732;266;2024-08-19;Python;6.5;True
+10559;798;2024-10-08;Python;7.6;False
+11189;327;2024-12-09;SQL;6.2;True
+11369;432;2024-03-02;Machine Learning;4.6;False
+11289;100;2024-12-26;Machine Learning;6.7;False
+10838;252;2024-02-16;Machine Learning;1.1;True
+10655;378;2024-09-25;Python;2.5;True
+10171;372;2024-03-13;Python;0.9;False
+10909;140;2024-12-15;Statistics;3.4;True
+10194;295;2024-11-02;Machine Learning;6.1;True
+10450;438;2024-03-24;Economics;5.4;True
+11793;105;2024-07-19;SQL;3.0;True
+11149;372;2024-08-08;Statistics;5.6;True
+10029;839;2024-05-14;Machine Learning;6.2;True
+10837;787;2024-02-15;Python;6.8;False
+11602;844;2024-12-12;SQL;3.6;False
+10428;778;2024-09-01;Machine Learning;3.3;True
+11787;635;2024-05-20;SQL;6.9;True
+10816;118;2024-12-12;Python;5.2;True
+10106;567;2024-03-09;Economics;5.5;False
+11304;576;2024-09-21;Python;4.4;True
+11235;505;2024-10-18;Machine Learning;7.7;True
+10293;349;2024-08-11;Machine Learning;3.5;True
+11851;923;2024-09-11;Statistics;2.5;True
+11396;387;2024-03-10;Python;6.9;False
+11372;272;2024-12-22;Statistics;4.7;False
+10222;122;2024-12-03;Economics;2.6;True
+10934;971;2024-10-08;Economics;5.3;True
+10862;136;2024-10-12;Machine Learning;0.5;True
+10573;566;2024-04-15;Machine Learning;4.1;False
+11065;415;2024-07-06;Economics;2.4;False
+10356;986;2024-12-01;Statistics;2.5;False
+11597;252;2024-02-15;Statistics;1.8;True
+11419;344;2024-10-03;Python;5.4;True
+11733;102;2024-03-03;Machine Learning;3.1;True
+10680;239;2024-10-26;Python;1.7;True
+10080;522;2024-01-13;SQL;  6.0  ;False
+10257;602;2024-12-30;Economics;1.1;True
+10295;178;2024-09-18;Python;4.5;True
+11379;834;2024-09-12;Machine Learning;7.6;False
+11027;589;2024-10-03;Python;4.3;False
+11269;581;2024-04-28;SQL;1.6;False
+10809;246;2024-06-10;SQL;6.3;False
+10888;927;Jan 07, 2024;Machine Learning;1.3;False
+10907;323;2024-11-12;Machine Learning;4.1;True
+11137;709;2024-11-24;Statistics;0.8;False
+10751;874;2024-10-28;SQL;4.7;False
+10696;276;2024-06-30;SQL;7.3;False
+11410;289;2024-07-08;Economics;5.8;True
+10117;405;2024-07-18;Economics;4.5;True
+11789;102;2024-08-06;Python;6.9;False
+10877;958;2024-10-26;Economics;7.4;True
+11563;421;2024-11-04;Statistics;7.0;False
+11162;154;2024-08-26;Python;1.0;False
+11237;585;2024-01-19;SQL;4.1;False
+11434;275;2024-05-13;SQL;4.1;False
+11224;726;2024-01-30;Python;4.8;True
+10654;850;2024-03-01;Python;3.0;False
+11988;856;2024-11-09;Python;3.1;False
+10684;946;2024-12-26;Machine Learning;0.8;False
+11972;551;2024-11-16;Machine Learning;1.3;True
+10083;458;2024-06-05;SQL;2.2;True
+10411;471;2024-10-10;Statistics;1.1;False
+10693;928;2024-03-06;Python;7.3;False
+11038;584;2024-01-05;SQL;3.7;True
+11217;439;2024-02-14;Python;1.3;True
+11487;228;2024-04-17;SQL;7.9;False
+11512;225;2024-04-29;Economics;5.9;False
+11061;661;2024-08-15;SQL;7.8;True
+10657;979;2024-10-17;SQL;3.3;False
+11380;456;2024-08-02;Python;4.7;True
+11051;377;2024-08-15;Statistics;6.1;False
+11807;575;2024-08-07;Machine Learning;5.1;False
+10152;296;2024-04-20;Economics;2.6;False
+11015;793;2024-12-25;SQL;6.5;False
+11771;449;2024-04-17;Economics;7.7;False
+11728;212;2024-03-02;Statistics;4.8;True
+10102;835;2024-12-22;Economics;4.2;True
+10711;676;2024-04-06;Economics;4.6;True
+11029;815;2024-09-22;Economics;2.9;True
+10239;650;2024-03-10;Economics;3.9;False
+11997;192;2024-12-20;Statistics;7.0;True
+12029;894;2024-12-20;Python;6.3;False
+11631;708;2024-12-02;Python;3.0;True
+11622;826;2024-10-14;Economics;3.9;True
+11157;412;2024-08-18;Economics;0.7;True
+10770;978;2024-12-22;Python;7.8;True
+11202;565;2024-02-16;Statistics;2.9;True
+11166;987;2024-11-01;Machine Learning;1.2;True
+10167;398;2024-01-17;SQL;2.7;False
+10903;602;2024-10-20;Machine Learning;3.2;False
+10556;398;2024-12-21;Economics;7.8;True
+11803;156;2024-06-03;Machine Learning;5.2;True
+11735;445;2024-07-12;Economics;6.8;True
+10332;379;2024-08-18;Machine Learning;1.6;False
+10764;998;2024-07-29;Statistics;3.4;False
+11884;638;2024-06-17;Machine Learning;7.1;False
+11436;270;2024-15-01;SQL;5.8;False
+11069;917;2024-05-29;Machine Learning;2.2;True
+11689;208;2024-11-08;Machine Learning;6.4;True
+11199;949;2024-11-26;Economics;1.2;True
+11508;283;2024-01-07;Economics;5.5;False
+11128;558;2024-07-22;Python;5.9;False
+10552;440;2024-11-13;Economics;6.5;False
+10548;164;2024-03-26;Economics;2.6;False
+11483;117;2024-09-02;Statistics;2.8;False
+10232;872;2024-04-25;Economics;7.8;False
+10969;686;2024-03-16;Python;1.7;True
+10362;776;2024-05-31;Statistics;3.8;False
+11431;954;2024-09-23;Statistics;3.6;False
+10317;932;2024-03-06;Machine Learning;1.2;False
+11161;361;2024-03-28;Python;2.6;False
+11607;825;2024-08-04;Machine Learning;2.4;True
+11936;536;2024-08-27;Statistics;1.7;True
+10403;933;2024-06-16;Machine Learning;5.9;True
+10554;407;2024-06-13;Machine Learning;7.6;True
+11819;904;2024-02-05;Statistics;1.9;False
+10937;231;2024-12-09;SQL;1.3;True
+11946;239;2024-08-28;SQL;1.7;True
+11164;399;2024-11-28;Economics;2.2;False
+10966;593;2024-12-11;Economics;4.1;True
+10652;608;2024-06-26;Machine Learning;4.4;False
+10688;196;2024-08-24;Python;6.5;True
+10798;451;2024-04-23;Machine Learning;5.3;False
+12005;916;2024-12-13;SQL;4.4;True
+10865;945;2024-01-28;SQL;6.8;False
+10771;237;2024-06-02;Economics;6.3;False
+11750;287;2024-05-10;Python;1.7;False
+10092;619;2024-06-07;Economics;2.9;False
+11723;698;2024-09-12;Economics;8.0;False
+11722;702;2024-10-13;Machine Learning;6.3;False
+11281;941;2024-08-15;SQL;2.8;False
+10379;126;2024-07-03;Machine Learning;4.8;False
+11407;344;2024-11-27;Python;0.6;False
+11693;850;2024-02-20;SQL;5.4;False
+11951;298;2024-08-11;Statistics;6.3;False
+10729;837;2024-01-01;Python;3.4;False
+10740;776;2024-05-24;Statistics;2.3;True
+12004;967;2024-15-01;Economics;2.9;False
+10721;781;2024-10-28;SQL;3.3;False
+11869;681;2024-01-17;SQL;1.7;False
+11068;873;2024-09-01;Statistics;0.6;False
+11596;150;2024-07-24;Machine Learning;3.7;False
+11398;718;2024-03-21;Machine Learning;7.3;True
+11768;842;2024-10-11;Statistics;7.1;True
+11938;392;2024-10-22;Economics;7.8;True
+10346;636;2024-07-03;Python;7.7;True
+11530;884;2024-05-25;Statistics;1.0;True
+10193;583;2024-05-04;Economics;4.6;False
+11123;773;2024-03-21;Machine Learning;8.0;False
+11548;543;2024-12-05;Machine Learning;2.9;False
+10075;214;2024-02-08;SQL;4.6;False
+10761;905;2024-12-24;Machine Learning;4.9;False
+11384;786;2024-01-23;Python;5.3;False
+11757;167;2024-09-04;Python;3.6;True
+11476;656;2024-06-14;Statistics;6.7;False
+11275;911;2024-06-03;Machine Learning;4.0;False
+10178;581;2024-09-22;Economics;7.4;True
+11978;717;2024-09-23;Statistics;  7.5  ;False
+10504;146;2024-10-15;SQL;6.1;True
+10881;380;2024-07-22;Statistics;7.8;False
+11619;154;2024-04-06;SQL;0.9;True
+11391;990;2024-04-12;Economics;7.2;True
+11215;150;2024-04-04;SQL;0.9;False
+11896;490;2024-06-24;Economics;6.9;False
+10025;911;2024-12-14;Economics;5.0;False
+11305;351;2024-08-29;Python;5.6;False
+10526;377;2024-01-24;Python;5.6;False
+11257;891;2024-08-13;Python;2.5;True
+10173;805;2024-06-04;Economics;  7.6  ;False
+11412;643;2024-01-17;Statistics;3.7;False
+10437;865;??/??/????;SQL;2.0;False
+10331;828;2024-09-21;Python;2.6;True
+10853;785;2024-06-22;Machine Learning;4.4;True
+10430;724;2024-09-04;SQL;7.7;False
+11858;108;2024-06-02;Statistics;6.7;False
+10300;984;2024-11-17;Statistics;1.6;True
+11042;587;2024-11-18;Python;3.9;False
+11464;329;2024-01-14;Python;1.7;False
+10479;382;2024-04-06;Python;0.7;False
+11574;941;2024-06-06;Python;5.3;True
+11543;394;2024-05-15;Python;  2.7  ;False
+10795;924;2024-11-03;Economics;5.5;True
+11990;721;2024-04-09;SQL;7.0;True
+11111;773;2024-09-07;Machine Learning;5.2;False
+10999;510;2024-11-10;Machine Learning;2.6;True
+10683;972;2024-03-02;Python;1.7;False
+12014;977;2024-09-06;Economics;2.7;True
+11866;855;2024-01-05;Economics;6.6;False
+10324;838;2024-08-12;Python;3.6;True
+11995;492;2024-15-01;SQL;5.9;False
+11356;209;2024-11-18;Statistics;4.1;False
+10468;235;2024-09-19;Economics;3.9;True
+10561;938;2024-07-28;Economics;1.5;False
+11831;203;2024-01-11;SQL;3.3;True
+10128;736;2024-03-19;SQL;1.4;True
+11045;690;2024-10-21;Machine Learning;1.8;False
+10034;187;2024-09-05;Python;7.8;True
+11231;146;2024-06-19;Statistics;4.7;True
+10990;873;2024-04-14;Economics;4.6;False
+11998;759;2024-06-24;Economics;7.3;False
+10061;309;2024-12-08;Statistics;2.3;False
+10964;316;2024-03-17;SQL;1.7;True
+10996;264;2024-07-18;Python;6.5;True
+10694;225;2024-01-22;Economics;0.9;False
+10254;562;2024-09-14;SQL;  7.6  ;True
+10126;329;2024-11-28;Python;6.4;True
+11138;180;29-Jan-2024;Statistics;3.1;False
+11499;319;2024-09-15;Economics;3.2;True
+10846;378;2024-07-16;Economics;6.5;True
+12022;852;2024-11-29;Python;3.2;True
+10513;482;2024-01-31;Machine Learning;5.3;False
+11542;306;2024-09-11;Python;  6.8  ;True
+10067;783;2024-10-10;Statistics;7.5;True
+11688;823;2024-01-26;Economics;6.5;True
+10932;264;2024-04-04;SQL;5.1;False
+10221;685;2024-07-02;Machine Learning;2.7;False
+11185;181;2024-12-18;Economics;1.5;False
+10738;260;2024-01-28;Python;3.0;True
+11330;793;2024-12-19;SQL;2.8;True
+11749;217;2024-02-20;Machine Learning;1.8;True
+10088;546;2024-11-06;Machine Learning;1.4;True
+11488;807;2024-02-27;Python;0.6;False
+11297;980;2024-08-21;Machine Learning;7.5;True
+11740;853;2024-05-22;Python;7.0;True
+10319;319;2024-06-23;Economics;1.9;True
+11539;430;2024-10-20;Python;6.6;True
+11627;352;2024-09-12;Python;7.2;True
+11454;478;2024-07-16;Statistics;0.6;False
+10675;569;2024-02-13;Machine Learning;1.2;True
+10436;831;2024-02-10;Statistics;7.4;False
+10119;498;2024-06-21;Economics;5.9;False
+10397;575;2024-04-14;Statistics;5.0;False
+11003;729;2024-03-27;Python;3.2;True
+11041;507;2024-02-20;SQL;1.0;False
+11646;800;2024-06-02;SQL;4.4;False
+11984;816;2024-05-07;Statistics;3.9;False
+10635;383;2024-11-26;Python;2.4;False
+11191;987;2024-08-22;SQL;3.7;True
+11572;424;2024-10-06;Economics;4.1;True
+10062;234;2024-12-09;Statistics;3.9;True
+10717;482;2024-12-26;Economics;4.9;False
+11104;851;2024-04-04;Python;5.1;False
+11457;267;2024-08-05;Economics;1.5;True
+10283;639;2024-12-07;Statistics;0.8;False
+10712;602;2024-01-20;Python;0.9;True
+10274;819;2024-06-07;Statistics;3.1;True
+10425;295;2024-01-10;Economics;2.9;True
+10621;262;2024-05-20;Python;5.4;False
+11507;293;2024-02-05;Economics;7.5;False
+10924;396;2024-12-17;Statistics;5.0;False
+11668;152;2024-06-19;Python;1.3;False
+11685;540;2024-02-28;Machine Learning;2.2;True
+10153;202;2024-04-09;Statistics;2.2;True
+11139;526;2024-03-02;SQL;6.1;True
+10423;697;2024-09-02;SQL;4.4;False
+10280;378;2024-08-14;Economics;4.1;False
+10781;267;2024-05-12;Python;2.6;False
+10506;402;2024-03-19;SQL;3.0;False
+11336;484;2024-12-02;Machine Learning;  6.5  ;True
+12001;189;2024-02-27;Python;3.1;True
+10658;891;2024-02-22;Machine Learning;5.6;True
+11818;532;2024-06-25;SQL;7.8;True
+10701;491;2024-07-02;Economics;4.6;False
+10839;362;2024-11-25;SQL;3.9;False
+10500;345;2024-10-09;Statistics;6.3;False
+11152;888;2024-06-05;SQL;7.9;False
+11121;819;2024-12-06;Economics;7.1;True
+10549;595;2024-02-09;Statistics;2.4;True
+10557;433;2024-07-11;Statistics;6.6;False
+11663;765;May 03, 2024;Economics;6.8;True
+10602;549;2024-03-01;SQL;2.1;False
+10442;516;2024-11-30;Economics;4.1;True
+11849;335;2024-10-25;Python;4.0;False
+10218;175;2024-08-14;Statistics;7.9;False
+10250;776;2024-01-14;SQL;0.6;True
+11075;292;2024-02-05;SQL;1.5;True
+10736;446;2024-10-31;Machine Learning;7.2;True
+10114;524;2024-07-27;Statistics;4.6;False
+10209;732;2024-02-05;SQL;5.2;False
+10206;176;2024-08-28;Statistics;3.0;False
+11400;705;2024-08-30;Economics;2.6;False
+11497;641;2024-04-21;SQL;7.7;True
+11887;500;2024-11-09;SQL;3.6;True
+11600;295;2024-05-16;Statistics;6.1;False
+10550;838;2024-11-16;Economics;5.0;True
+11186;829;2024-11-28;Statistics;1.9;False
+11916;773;2024-05-22;Machine Learning;3.3;True
+10653;270;2024-07-09;SQL;6.1;False
+11630;950;2024-12-28;Economics;3.9;False
+11108;519;2024-11-24;Statistics;1.3;True
+10312;167;2024-06-17;Python;4.7;False
+11886;761;2024-08-21;Statistics;5.8;False
+11805;970;2024-07-14;Economics;1.2;False
+11221;939;2024-02-04;Economics;6.8;True
+11593;286;2024-07-20;Economics;7.6;True
+10805;581;2024-01-28;Machine Learning;4.9;True
+10814;539;2024-09-01;Economics;0.5;True
+11492;872;2024-02-19;Python;7.4;True
+11227;232;2024-11-10;Machine Learning;4.2;False
+10578;573;2024-04-28;Economics;5.2;True
+10190;195;2024-04-25;Python;4.0;True
+10980;893;2024-12-13;Economics;4.4;False
+10854;543;2024-12-04;SQL;4.1;False
+11417;474;2024-07-06;SQL;5.4;True
+10000;754;2024-02-27;Python;6.1;True
+11180;288;2024-06-11;SQL;6.0;False
+11717;831;2024-07-12;Machine Learning;6.0;True
+10200;990;2024-04-06;SQL;4.8;True
+11873;754;2024-06-04;Python;1.8;True
+10046;984;2024-01-28;Python;1.0;False
+11909;114;2024-06-21;SQL;5.6;True
+10247;170;2024-10-10;SQL;4.9;True
+11481;914;2024-10-13;Machine Learning;5.7;True
+11054;315;2024-03-26;Economics;1.3;True
+10271;217;2024-05-22;Machine Learning;2.2;False
+10892;467;2024-08-19;Python;5.1;True
+10723;971;2024-10-17;Python;1.9;False
+11101;849;2024-08-27;Statistics;7.0;True
+11568;437;2024-10-26;Economics;6.5;True
+11341;364;2024-05-15;SQL;3.8;False
+11146;892;2024-12-23;SQL;6.2;False
+10650;564;2024-11-09;Machine Learning;0.9;True
+11366;567;2024-11-08;SQL;6.8;True
+10978;729;2024-11-03;Python;7.1;True
+11230;855;2024-04-16;Machine Learning;8.0;False
+11308;531;2024-06-29;Statistics;2.7;True
+11506;331;2024-10-10;Economics;2.7;False
+10175;852;2024-06-14;Machine Learning;2.4;True
+10278;419;2024-06-15;Machine Learning;5.0;True
+11503;607;2024-07-03;Statistics;4.7;True
+11119;683;2024-11-16;SQL;4.7;False
+11458;247;2024-04-16;Statistics;4.1;False
+11046;463;2024-06-15;Machine Learning;4.2;False
+10040;702;10-Oct-2024;SQL;4.9;True
+11444;762;2024-12-27;Statistics;4.1;False
+10691;696;2024-10-27;Statistics;7.4;True
+10674;144;2024-04-28;Machine Learning;3.6;False
+10416;923;2024-08-30;Machine Learning;3.9;True
+11830;282;2024-04-10;Python;1.8;False
+10217;923;2024-08-26;Statistics;5.6;True
+10759;189;2024-07-17;Machine Learning;3.5;False
+11138;180;29-Jan-2024;Statistics;3.1;False
+11765;959;14-Dec-2024;Economics;8.0;True
+10797;528;2024-07-26;Economics;6.0;True
+11006;854;2024-12-26;Python;7.4;False
+11081;480;2024-08-25;Python;missing;True
+10976;494;2024-03-08;Python;0.6;False
+10225;794;2024-12-03;SQL;5.2;True
+10727;941;2024-12-28;Statistics;3.8;False
+11146;892;2024-12-23;SQL;6.2;False
+11509;548;2024-09-24;Python;1.4;False
+11144;235;2024-06-21;Python;4.1;True
+11629;957;2024-06-14;SQL;0.7;False
+11320;155;24-Nov-2024;Statistics;6.2;True
+10449;237;2024-09-15;Economics;2.5;True
+11450;900;2024-05-22;SQL;0.7;False
+10376;783;2024-06-26;Python;4.6;False
+11405;563;2024-09-10;SQL;1.1;True
+11426;395;2024-02-09;Python;1.7;True
+11212;722;2024-09-09;SQL;2.1;False
+10645;533;2024-12-25;Economics;1.1;True
+10433;424;2024-09-02;Statistics;4.7;False
+11020;610;2024-04-12;SQL;6.0;False
+10371;507;2024-06-09;Statistics;2.4;True
+10264;781;2024-05-10;Statistics;7.7;False
+10476;641;2024-03-06;SQL;6.8;True
+11394;482;2024-03-10;Economics;5.9;False
+10700;304;2024-11-25;Machine Learning;2.4;True
+11052;523;2024-03-26;SQL;6.9;True
+10644;908;2024-07-22;Machine Learning;2.6;False
+11514;464;2024-08-31;Machine Learning;7.6;False
+10665;170;2024-08-26;Statistics;6.3;False
+10929;666;2024-10-11;SQL;1.4;True
+10915;315;2024-12-09;SQL;  7.0  ;False
+11962;700;2024-06-06;Economics;6.1;True
+11130;106;2024-06-02;SQL;2.1;False
+11695;525;2024-01-04;SQL;6.8;False
+10130;271;Nov 06, 2024;Machine Learning;7.7;True
+11538;702;2024-01-12;Statistics;3.3;False
+11176;768;2024-03-11;Machine Learning;4.6;True
+10794;292;2024-03-17;Machine Learning;6.2;True
+10639;606;2024-07-16;Python;2.3;True
+10246;151;2024-06-19;SQL;7.9;True
+11511;166;2024-07-05;SQL;3.0;False
+10734;175;2024-06-24;SQL;7.2;True
+10505;367;2024-10-10;Machine Learning;4.8;False
+11889;815;2024-10-18;Python;3.5;True
+10923;817;2024-02-07;Statistics;7.5;True
+12019;970;2024-12-29;Statistics;3.9;True
+11218;265;2024-12-10;Statistics;5.1;True
+10268;988;2024-01-27;Statistics;5.0;False
+11647;682;2024-01-25;Machine Learning;1.1;True
+10532;154;2024-02-20;Economics;2.2;True
+11874;132;2024-12-18;Machine Learning;4.2;True
+10108;950;2024-10-07;Economics;7.2;False
+10771;237;2024-06-02;Economics;6.3;False
+11017;354;2024-05-27;Python;3.5;False
+10015;818;2024-12-15;Python;5.1;True
+11781;339;2024-09-09;Statistics;0.8;False
+11953;813;2024-01-30;Economics;7.4;True
+10906;326;2024-04-19;Statistics;3.0;False
+10523;157;2024-11-22;Python;5.8;True
+10648;417;2024-12-23;Economics;6.0;True
+10543;191;2024-06-30;Machine Learning;1.2;False
+11832;446;2024-04-17;Statistics;3.9;False
+10757;799;2024-08-10;SQL;8.0;True
+10994;901;2024-12-24;SQL;1.3;False
+11945;484;2024-10-14;Machine Learning;4.1;False
+10989;678;2024-07-06;Machine Learning;2.6;False
+10259;739;2024-11-20;Machine Learning;4.6;False
+11117;321;2024-09-22;Python;1.3;True
+11848;237;2024-02-13;Statistics;3.8;False
+11934;749;2024-03-13;SQL;1.4;True
+11345;205;2024-01-18;Python;1.0;False
+10927;915;2024-10-06;Statistics;7.7;True
+10612;512;2024-09-20;Statistics;5.7;False
+11377;246;2024-11-23;Statistics;4.4;False
+11537;681;2024-09-20;Economics;2.5;False
+11279;277;2024-12-05;Python;6.0;False
+10219;754;2024-08-05;Statistics;3.9;False
+10928;405;2024-12-12;Statistics;7.7;True
+10485;342;2024-06-03;SQL;7.9;True
+10039;223;2024-05-06;SQL;1.0;True
+10275;990;2024-03-14;Machine Learning;5.4;True
+10625;235;2024-10-30;SQL;4.4;False
+11299;493;2024-06-30;SQL;1.9;True
+10258;429;2024-11-07;SQL;1.0;False
+10876;610;2024-01-03;Machine Learning;6.0;False
+10386;411;2024-03-25;SQL;2.9;True
+10847;215;2024-03-08;Python;7.9;True
+10774;940;2024-01-29;Machine Learning;6.4;True
+11472;999;2024-12-20;SQL;3.2;True
+10467;193;2024-09-18;Economics;6.6;False
+11686;598;2024-05-12;Statistics;6.4;True
+11965;815;2024-06-06;Python;7.9;False
+11315;774;2024-08-16;Statistics;6.6;False
+11784;682;2024-09-13;Economics;1.8;True
+10904;638;2024-04-22;SQL;4.4;True
+10566;211;2024-05-07;Statistics;1.7;True
+12024;795;2024-03-27;Python;1.2;False
+11736;880;2024-03-11;Machine Learning;5.3;False
+11192;722;2024-07-13;Statistics;3.5;True
+10507;683;2024-05-05;Economics;4.6;False
+10007;881;2024-06-21;Python;1.2;True
+10267;786;2024-03-03;Economics;3.2;False
+10503;879;2024-06-12;SQL;3.3;False
+10778;380;2024-07-07;Economics;4.3;True
+10306;560;2024-10-19;SQL;2.9;False
+10708;463;2024-03-29;SQL;2.3;False
+10378;224;12-Apr-2024;SQL;2.3;False
+10600;204;2024-11-30;SQL;2.7;True
+10678;971;2024-06-10;Economics;5.8;False
+10773;552;2024-04-18;Economics;6.1;False
+11242;960;2024-01-16;Statistics;7.9;True
+11011;922;2024-09-19;Statistics;7.1;False
+10065;457;2024-02-05;SQL;3.3;True
+11529;606;2024-10-29;Economics;5.1;False
+10880;616;2024-07-15;Economics;7.8;True
+11776;788;2024-03-04;Statistics;7.8;False
+11672;666;2024-02-02;Statistics;7.2;False
+10679;425;2024-08-19;Statistics;2.3;True
+11914;431;2024-03-29;Python;3.5;False
+10781;267;2024-05-12;Python;2.6;False
+10603;981;2024-12-29;Machine Learning;5.2;True
+10627;810;2024-03-08;Economics;1.0;False
+11411;981;2024-11-17;Python;3.4;False
+11636;191;2024-01-11;SQL;1.7;False
+11441;652;2024-03-24;Machine Learning;2.8;True
+10375;562;2024-03-29;Economics;8.0;False
+10213;249;2024-05-05;Machine Learning;3.6;True
+10883;963;2024-12-25;Machine Learning;7.0;True
+10382;638;2024-07-29;Economics;6.7;True
+10531;909;2024-12-18;Python;4.3;False
+11392;582;2024-10-26;Economics;0.9;False
+10390;706;2024-10-24;SQL;1.8;False
+10031;256;2024-07-10;SQL;4.5;True
+10959;485;2024-11-30;Economics;3.2;True
+11676;619;Apr 22, 2024;Machine Learning;7.3;False
+10242;322;2024-08-15;Economics;7.6;False
+10610;601;2024-03-13;Machine Learning;5.2;False
+10570;556;2024-07-10;Economics;4.0;True
+10343;711;2024-10-01;Python;5.2;True
+11957;360;2024-05-06;Machine Learning;4.8;True
+11713;849;2024-01-31;Statistics;2.4;False
+10434;394;2024-03-03;Machine Learning;5.6;False
+10097;552;2024-08-14;SQL;4.3;True
+11268;199;2024-08-21;Statistics;5.6;False
+11233;909;2024-02-04;Statistics;2.8;False
+10021;246;2024-05-15;SQL;2.3;False
+11113;113;2024-04-16;Economics;7.5;True
+11883;246;2024-08-16;Python;6.7;True
+10609;355;2024-03-15;Statistics;6.7;False
+11185;181;2024-12-18;Economics;1.5;False
+10965;776;2024-04-27;Economics;6.6;True
+10528;116;2024-04-16;Machine Learning;1.6;False
+10176;334;2024-12-11;Machine Learning;4.9;True
+10422;771;2024-10-23;Machine Learning;  2.2  ;True
+11714;226;Jan 25, 2024;Python;3.9;True
+10953;679;2024-10-16;SQL;6.0;False
+10027;796;2024-02-28;Machine Learning;6.1;False
+10572;187;??/??/????;SQL;3.1;False
+10592;109;2024-09-05;SQL;2.0;False
+10288;173;2024-07-22;Python;3.8;False
+11976;869;2024-01-04;Machine Learning;6.4;True
+11586;811;2024-01-15;Python;5.3;True
+10326;339;2024-09-30;SQL;2.8;False
+11652;963;2024-07-20;Python;1.1;False
+11588;743;2024-06-05;Statistics;4.8;True
+10894;809;2024-12-06;Python;7.4;False
+11466;527;2024-04-01;Economics;7.3;True
+11187;603;2024-08-30;SQL;1.7;True
+11429;585;2024-06-26;Economics;3.8;True
+11795;301;2024-03-25;Statistics;2.8;True
+11992;272;2024-08-16;Python;4.1;True
+10852;770;2024-06-09;Python;5.8;True
+10370;554;2024-02-09;Machine Learning;  1.5  ;False
+11893;873;2024-02-23;Machine Learning;6.2;False
+11773;723;2024-08-31;Python;7.3;True
+11105;894;2024-11-13;SQL;2.9;True
+11438;142;2024-06-11;Machine Learning;1.4;False
+11259;311;2024-10-04;Statistics;4.6;False
+10164;724;2024-02-20;SQL;5.2;False
+10141;349;2024-08-25;Machine Learning;5.1;False
+10895;526;2024-12-16;Statistics;7.7;True
+10491;407;2024-12-28;SQL;6.5;True
+10198;986;2024-03-17;Economics;4.5;False
+11859;515;2024-10-23;Python;4.0;True
+11456;320;2024-08-15;Economics;6.5;False
+10638;402;2024-11-26;Python;6.4;True
+11389;303;2024-12-12;Statistics;2.2;True
+11513;883;2024-10-24;Machine Learning;2.5;False
+10195;984;2024-02-05;Statistics;6.3;False
+10874;748;2024-12-10;Machine Learning;1.4;False
+10249;233;2024-10-03;Statistics;6.5;True
+10595;678;2024-01-16;SQL;2.7;False
+10840;370;2024-08-25;Python;1.2;True
+10581;310;2024-05-22;Python;4.8;True
+10204;990;2024-02-21;Economics;1.2;False
+10905;525;2024-10-05;Machine Learning;3.5;False
+10631;550;2024-06-28;SQL;5.2;True
+11761;482;2024-10-03;SQL;6.4;False
+10162;894;2024-09-24;Economics;3.9;False
+10902;140;2024-03-19;Statistics;5.0;False
+11332;637;2024-02-23;Economics;3.1;False
+11649;575;2024-12-04;Machine Learning;6.6;False
+10875;568;2024-12-03;Machine Learning;7.7;True
+10925;883;2024-08-12;Economics;3.5;True
+11958;112;2024-02-29;Python;5.3;False
+10547;242;2024-05-17;Statistics;2.5;True
+11334;158;2024-10-31;SQL;  7.6  ;True
+11894;519;2024-08-18;SQL;2.4;True
+12006;209;2024-07-21;Python;  4.5  ;False
+10808;240;2024-04-12;Statistics;3.6;False
+10611;484;19-Aug-2024;Python;5.3;True
+10791;674;2024-11-27;Machine Learning;5.1;False
+10640;640;2024-01-07;Statistics;7.5;True
+11566;634;2024-12-06;Machine Learning;7.6;False
+11941;617;2024-11-08;Economics;6.2;False
+10742;155;2024-07-03;Python;3.7;False
+10637;310;2024-09-22;Machine Learning;4.3;False
+10355;359;2024-01-19;SQL;2.6;True
+10260;490;2024-11-01;Machine Learning;2.7;False
+11940;507;2024-07-12;SQL;4.0;False
+11097;924;2024-08-12;SQL;0.7;False
+11541;270;2024-11-10;Statistics;3.2;False
+10048;243;2024-08-04;SQL;2.6;True
+11406;809;2024-07-27;SQL;1.5;False
+10921;423;2024-01-09;Economics;5.5;True
+10546;685;2024-09-23;SQL;5.6;True
+10756;316;2024-04-08;SQL;0.8;True
+11383;215;2024-03-17;Economics;4.2;True
+10709;925;2024-12-23;Statistics;7.4;True
+11525;823;2024-03-25;Economics;3.7;False
+10972;559;2024-11-06;Economics;7.0;True
+11760;556;2024-02-12;Machine Learning;2.0;True
+11378;344;2024-03-30;Machine Learning;5.7;True
+11222;399;2024-08-29;SQL;1.4;False
+12021;248;2024-04-17;SQL;6.5;True
+11260;244;2024-12-26;Statistics;4.8;True
+10136;618;2024-11-27;Statistics;0.6;False
+10074;265;2024-08-14;Machine Learning;5.8;True
+11335;825;2024-03-02;Python;6.9;True
+10077;415;2024-07-05;Python;7.2;True
+11387;261;2024-01-15;Economics;4.4;True
+11070;661;2024-07-10;SQL;3.6;False
+10659;333;2024-09-17;Python;0.8;True
+12025;283;2024-01-27;Python;7.9;False
+10400;347;2024-08-26;Python;2.5;True
+10160;255;2024-03-17;Machine Learning;7.6;True
+11931;780;2024-05-07;SQL;5.1;False
+11019;323;2024-10-20;Statistics;1.9;True
+11927;842;2024-11-02;Economics;6.0;False
+11193;633;2024-02-25;Economics;3.9;True
+10475;769;2024-06-27;Python;1.8;False
+10762;215;2024-07-31;SQL;1.6;True
+11136;599;2024-12-19;Machine Learning;  6.6  ;True
+10830;408;03-Aug-2024;Python;5.5;False
+11169;502;2024-03-21;Python;3.1;False
+11612;694;2024-04-01;Statistics;1.8;False
+11328;770;2024-10-26;Economics;4.0;True
+11338;776;2024-02-08;Economics;7.4;False
+10739;519;2024-12-22;Machine Learning;5.9;False
+10431;671;2024-06-01;SQL;7.6;False
+11888;732;2024-08-09;Economics;3.4;True
+10867;833;2024-08-19;Python;1.2;True
+10926;585;2024-03-21;Machine Learning;2.1;False
+11544;923;2024-04-25;Machine Learning;6.1;True
+10997;582;2024-11-03;Economics;1.2;False
+10541;204;not_a_date;Python;1.9;False
+11901;958;2024-01-10;Machine Learning;1.3;False
+11132;196;2024-01-20;Economics;3.2;True
+11395;376;2024-04-13;Statistics;N/A;True
+11594;121;2024-01-12;Machine Learning;5.4;True
+10210;332;2024-02-16;Economics;7.8;True
+11751;794;2024-03-27;Python;5.1;False
+10059;692;2024-10-31;Python;5.1;False
+11211;112;2024-08-22;Economics;6.9;True
+11880;233;2024-04-15;Statistics;3.7;False
+11595;191;2024-08-24;SQL;2.5;True
+10161;354;2024-03-01;Machine Learning;6.2;True
+11638;920;2024-08-09;Statistics;7.3;True
+10765;685;2024-11-07;Economics;0.8;False
+10899;291;2024-03-29;Machine Learning;1.4;True
+11796;128;2024-09-02;Economics;6.6;False
+11078;290;2024-02-22;Statistics;2.5;False
+11248;554;2024-09-16;Python;6.5;True
+11553;573;2024-03-16;SQL;1.6;False
+10525;640;2024-01-22;SQL;  2.1  ;False
+10515;112;2024-01-09;Machine Learning;5.9;False
+10582;474;2024-06-15;SQL;3.9;False
+11968;280;2024-07-10;SQL;5.8;True
+11340;383;2024-02-01;Economics;3.4;True
+11325;642;2024-12-15;Python;1.2;False
+10940;927;2024-06-10;Economics;1.8;False
+11080;605;2024-04-21;Statistics;3.7;False
+10187;878;2024-01-27;SQL;2.5;True
+11881;262;2024-11-05;Machine Learning;7.5;True
+10037;652;2024-12-19;SQL;5.8;False
+10201;976;2024-07-29;Python;2.9;False
+11471;266;2024-10-24;Python;1.6;False
+10870;268;2024-09-09;SQL;6.7;False
+11552;679;2024-11-16;Python;4.4;False
+11764;100;2024-01-31;Economics;2.5;False
+10226;416;2024-08-13;Python;4.8;True
+11674;559;Dec 23, 2024;Economics;0.7;False
+10535;602;2024-04-26;Statistics;4.6;False
+11484;242;2024-08-14;Machine Learning;4.4;False
+11155;215;2024-01-28;SQL;7.6;True
+10131;896;2024-03-24;Statistics;1.3;True
+10697;386;2024-08-16;SQL;0.8;True
+11590;967;2024-10-31;Economics;6.4;False
+11386;144;2024-02-23;Python;7.4;True
+11691;745;2024-03-01;SQL;7.3;True
+11112;150;2024-07-06;SQL;5.0;True
+10586;729;2024-10-29;Python;5.5;False
+12031;219;2024-02-12;Python;4.2;True
+11037;976;2024-07-14;SQL;1.6;True
+10208;424;2024-11-16;Economics;7.0;True
+11535;989;2024-06-05;Python;3.0;True
+10565;818;2024-10-01;Machine Learning;5.3;True
+10313;390;2024-05-09;Machine Learning;7.0;False
+10601;560;2024-05-14;Statistics;7.0;True
+10233;192;2024-07-21;Python;2.5;True
+11309;811;2024-11-01;Statistics;6.0;False
+10931;412;2024-04-17;Statistics;2.1;True
+10499;348;2024-12-22;Machine Learning;5.8;False
+11463;954;2024-10-26;Statistics;4.2;False
+10111;550;2024-02-09;Statistics;2.3;False
+10936;843;2024-10-24;Economics;7.6;False
+11089;984;2024-12-07;SQL;7.8;True
+10922;756;2024-11-12;Python;6.2;True
+10230;944;2024-09-03;Statistics;6.1;False
+11762;668;2024-08-19;Python;0.5;False
+11641;192;2024-08-04;Statistics;5.1;False
+10472;170;2024-08-29;Python;2.7;True
+10873;833;2024-06-22;Python;6.2;True
+11247;214;2024-07-10;Python;6.3;True
+11177;983;2024-03-11;Statistics;  5.7  ;True
+11924;416;2024-05-01;Economics;6.2;True
+11292;658;2024-04-18;SQL;4.1;True
+11570;381;2024-08-13;Economics;2.4;True
+11209;847;2024-08-16;Statistics;5.2;True
+10361;658;2024-05-30;Statistics;1.3;False
+10135;455;2024-09-29;Economics;5.5;True
+11134;930;2024-06-02;Python;4.8;True
+11252;570;2024-07-17;Machine Learning;1.4;False
+11151;295;2024-06-13;Statistics;  5.0  ;True
+10107;873;2024-08-14;Machine Learning;6.6;False
+11053;845;2024-04-30;Statistics;7.6;True
+10412;882;2024-15-01;Statistics;6.7;True
+10022;864;2024-10-26;Economics;7.2;False
+11919;357;2024-02-18;Machine Learning;2.9;False
+11449;434;2024-01-29;Machine Learning;5.3;True
+11639;467;2024-12-06;Python;  6.7  ;True
+10695;941;2024-07-21;Economics;0.7;False
+10420;477;2024-06-18;Python;7.8;False
+10277;485;2024-08-02;Economics;3.1;False
+10460;324;2024-03-09;Economics;1.6;False
+11067;452;2024-05-26;Economics;4.5;False
+10087;139;2024-02-25;Machine Learning;3.8;False
+10282;453;2024-08-08;Python;2.6;False
+11911;525;2024-09-19;Python;6.6;False
+11365;114;2024-03-29;Python;7.3;True
+11748;124;2024-09-27;Statistics;3.4;True
+10540;105;2024-06-06;Economics;3.2;False
+11504;184;2024-06-16;Economics;1.4;False
+10859;512;2024-04-30;Python;3.9;False
+10533;448;2024-11-05;Machine Learning;7.7;False
+10234;565;2024-07-07;Statistics;4.9;False
+11659;410;2024-11-12;Machine Learning;3.2;False
+11790;542;2024-07-27;Statistics;1.4;False
+10255;844;2024-12-03;Machine Learning;  2.8  ;True
+10202;822;2024-07-14;Economics;7.9;True
+10235;210;2024-12-11;SQL;4.0;False
+11522;655;2024-06-24;Machine Learning;4.6;True
+10646;384;2024-02-12;Statistics;1.1;True
+11551;318;2024-12-04;Economics;2.5;False
+11707;817;2024-07-25;Economics;5.3;False
+11468;713;2024-07-04;Machine Learning;4.1;False
+11021;311;2024-04-27;SQL;6.8;False
+11910;325;2024-02-19;SQL;5.9;True
+10942;237;2024-12-13;Statistics;7.1;False
+11256;428;2024-04-12;SQL;2.6;False
+10779;797;2024-01-16;SQL;3.3;False
+11581;931;2024-11-25;Economics;6.4;False
+10038;787;2024-11-28;Statistics;3.8;False
+11245;523;2024-02-14;Economics;7.1;False
+10121;706;2024-10-15;Python;1.1;False
+10887;790;2024-09-30;Statistics;-5.0;False
+10112;427;2024-10-03;Python;1.5;True
+10685;251;2024-02-16;SQL;7.8;False
+11346;895;2024-08-16;Python;7.2;True
+11921;971;2024-12-07;Economics;1.0;True
+10413;231;2024-02-19;Economics;3.3;False
+10789;409;2024-12-12;Machine Learning;6.7;False
+10984;979;2024-02-12;Statistics;5.0;False
+11510;510;2024-12-21;Machine Learning;7.8;True
+11531;231;2024-07-06;Statistics;6.6;True
+10487;741;2024-12-13;Economics;4.7;True
+11447;242;2024-12-13;Machine Learning;1.4;True
+10935;397;2024-12-09;Python;2.4;True
+10272;965;2024-10-14;Machine Learning;5.1;True
+11861;585;29-Apr-2024;Machine Learning;4.9;False
+10521;407;2024-12-16;Python;5.4;True
+10522;195;2024-07-26;Economics;3.3;False
+11741;685;2024-11-18;Statistics;4.7;True
+11985;627;2024-07-30;SQL;0.5;False
+11926;255;2024-07-11;SQL;5.3;True
+11311;772;2024-05-29;Machine Learning;0.7;False
+10350;236;2024-01-23;Statistics;N/A;True
+11680;807;2024-02-14;Economics;1.5;True
+11933;166;2024-09-08;Python;7.7;True
+10373;368;2024-05-13;Economics;2.1;False
+11979;875;2024-06-21;Machine Learning;3.7;False
+10651;222;2024-01-07;SQL;5.8;True
+11917;323;2024-07-29;Statistics;6.3;False
+10369;719;2024-03-19;Economics;7.6;False
+10766;512;2024-03-14;Machine Learning;5.1;False
+11502;215;2024-06-09;Python;4.0;True
+12027;350;2024-01-18;Python;2.3;False
+11772;116;2024-12-20;SQL;5.3;True
+12007;423;2024-03-15;Statistics;6.8;False
+10168;819;2024-08-20;Python;5.7;False
+10835;402;2024-03-23;Python;4.6;True
+10962;598;2024-09-03;Machine Learning;0.5;True
+10945;979;2024-03-12;Machine Learning;2.0;True
+10462;880;2024-05-06;Machine Learning;7.0;True
+11882;614;2024-12-16;Economics;2.6;True
+10328;572;2024-05-24;Economics;error;False
+11721;587;2024-04-19;Economics;1.1;False
+10359;916;2024-09-22;Statistics;6.5;False
+12002;862;2024-02-29;Machine Learning;3.3;False
+11360;116;2024-01-19;Statistics;0.9;True
+11777;947;2024-11-03;Statistics;3.4;True
+10367;969;2024-11-07;Economics;0.8;True
+10991;283;Jul 08, 2024;Machine Learning;4.7;False
+10137;942;2024-09-07;Python;3.8;False
+11719;565;2024-02-20;SQL;5.8;False
+10519;914;2024-07-22;Python;3.3;False
+11977;199;2024-04-18;Machine Learning;  6.4  ;False
+11808;766;2024-12-11;Python;3.9;False
+10772;375;2024-08-01;Machine Learning;5.3;True
+11284;694;2024-11-21;Python;6.2;True
+10441;202;2024-12-14;SQL;0.5;True
+10562;347;2024-05-09;SQL;5.9;False
+10539;857;2024-07-18;Statistics;3.2;True
+10498;316;2024-04-07;Python;6.1;False
+11234;885;2024-01-04;Python;5.6;False
+11657;105;2024-07-21;Python;0.6;False
+10435;504;2024-06-25;SQL;2.7;False
+11251;941;2024-09-21;SQL;2.0;True
+10365;754;2024-01-30;Python;5.5;False
+11421;615;2024-12-14;Economics;2.6;True
+10276;245;2024-11-20;Python;1.2;True
+10147;195;2024-05-30;SQL;3.5;True
+11040;904;2024-09-06;Statistics;2.4;True
+11759;352;2024-10-11;SQL;2.8;False
+10407;149;2024-01-26;Statistics;4.2;False
+11526;832;2024-07-18;Economics;6.2;False
+11491;221;2024-05-09;Python;1.0;True
+11223;437;2024-09-26;Economics;4.4;True
+10844;736;2024-05-17;Python;3.3;False
+11983;842;2024-03-12;Python;5.0;False
+11493;701;2024-04-12;SQL;5.5;True
+10086;128;2024-02-29;Statistics;1.8;False
+11705;511;2024-12-14;Machine Learning;7.1;False
+10939;810;2024-10-26;SQL;4.7;False
+11746;186;2024-09-30;Machine Learning;2.9;True
+11521;400;2024-12-04;Economics;4.2;False
+11536;651;2024-06-15;Python;4.0;False
+10855;252;2024-10-12;Machine Learning;0.9;True
+11684;278;2024-09-14;Python;6.6;False
+10078;798;2024-05-07;Python;3.2;False
+10944;279;2024-11-26;Machine Learning;1.1;False
+10199;440;2024-10-09;Machine Learning;3.3;False
+11778;227;2024-08-24;Statistics;7.5;False
+11734;527;2024-09-03;Machine Learning;2.8;False
+10801;582;2024-03-06;Statistics;5.9;True
+10758;954;2024-10-31;Statistics;2.9;True
+11839;993;2024-03-05;Machine Learning;7.8;False
+10450;438;2024-03-24;Economics;5.4;True
+11835;913;2024-04-07;SQL;4.5;False
+10231;923;2024-02-28;Economics;7.7;True
+11461;827;Oct 17, 2024;SQL;2.0;False
+11033;474;2024-04-04;Economics;3.7;False
+11120;864;2024-02-24;Machine Learning;3.2;False
+10028;214;2024-05-30;Economics;1.7;True
+10571;453;2024-01-13;Economics;1.3;False
+11524;553;2024-08-23;Python;0.7;False
+11981;781;2024-07-23;Economics;5.1;False
+11690;943;2024-10-14;Python;4.3;True
+10392;183;2024-01-24;Machine Learning;2.5;True
+11143;327;2024-08-09;Statistics;6.4;True
+10016;646;2024-05-05;SQL;4.0;False
+10191;763;2024-03-19;Economics;7.5;False
+10104;897;2024-08-05;SQL;1.8;False
+10624;820;2024-02-18;Python;2.1;True
+11915;112;2024-07-18;SQL;3.9;True
+11439;478;04-Apr-2024;SQL;4.7;True
+11850;536;2024-08-18;Economics;3.7;False
+11702;446;2024-06-10;Economics;7.9;True
+11250;894;2024-06-16;SQL;6.3;True
+11696;449;2024-05-26;Machine Learning;1.8;False
+11582;987;2024-02-11;Economics;4.0;False
+10623;843;2024-12-24;SQL;3.7;True
+10545;897;2024-02-13;Machine Learning;7.3;True
+11474;149;2024-05-28;Statistics;4.5;True
+11872;292;2024-08-31;Python;3.0;False
+10182;395;2024-12-05;Economics;6.6;True
+11989;774;2024-12-24;Python;6.0;False
+10702;452;2024-10-16;Machine Learning;2.9;False
+10394;609;2024-11-17;Machine Learning;2.7;False
+11786;702;2024-03-06;Python;1.5;True
+10496;994;2024-02-07;SQL;6.5;True
+10994;901;2024-12-24;SQL;1.3;False
+10464;677;2024-02-27;Python;6.7;True
+11557;515;2024-05-02;Python;1.6;True
+11527;775;2024-10-10;Machine Learning;4.8;False
+10172;709;2024-10-18;Statistics;3.8;False
+10337;139;2024-05-26;Economics;5.7;True
+11236;298;2024-06-18;Statistics;7.4;False
+10492;675;2024-07-30;Economics;4.7;True
+11747;603;2024-01-12;Statistics;error;False
+10212;432;2024-01-29;Statistics;3.2;False
+11036;933;2024-02-21;Statistics;  6.5  ;False
+10064;175;2024-10-02;SQL;4.3;True
+10900;538;??/??/????;Machine Learning;2.5;True
+11446;446;2024-12-18;Python;6.0;True
+11728;212;2024-03-02;Statistics;4.8;True
+11738;191;2024-11-15;Machine Learning;3.6;True
+10741;502;2024-10-19;Machine Learning;6.8;True
+10245;968;2024-08-20;Python;5.5;True
+10404;881;2024-03-22;Economics;8.0;False
+10385;543;2024-09-14;Python;6.7;True
+11206;663;2024-07-13;Python;6.3;False
+10509;273;2024-03-12;Machine Learning;4.2;True
+10597;679;2024-09-10;Machine Learning;4.3;True
+11906;499;2024-12-19;Statistics;3.8;True
+10981;995;2024-01-23;Machine Learning;3.7;False
+11533;453;2024-07-01;Economics;3.1;True
+10154;409;2024-01-08;Machine Learning;1.4;True
+10518;734;2024-09-26;Statistics;6.6;False
+11547;455;2024-02-09;Statistics;4.3;False
+10767;139;2024-07-21;Statistics;5.7;True
+11086;633;2024-12-06;SQL;4.0;False
+11254;578;2024-01-24;Python;4.4;False
+10421;915;2024-12-18;Python;5.0;False
+10123;435;2024-04-18;Economics;3.0;False
+10419;825;2024-10-15;Statistics;4.1;True
+11974;165;2024-06-24;Python;4.9;False
+11871;490;2024-04-14;Economics;1.0;False
+10819;943;2024-01-24;Statistics;7.6;False
+11403;145;2024-01-21;Economics;6.0;True
+11382;575;2024-11-16;SQL;2.6;True
+10100;250;2024-01-13;Python;2.3;False
+10784;767;2024-07-28;Machine Learning;0.7;True
+11283;435;2024-09-10;Python;error;True
+10608;160;2024-05-21;SQL;5.8;True
+10763;208;2024-10-15;Python;6.4;False
+10399;878;2024-07-08;Machine Learning;4.7;False
+11103;654;Jul 06, 2024;Economics;0.5;False
+11718;435;2024-09-21;Machine Learning;1.9;False
+10882;924;2024-03-09;SQL;3.6;False
+10189;826;2024-03-22;Statistics;4.6;False
+11821;972;2024-10-23;Machine Learning;7.7;False
+11352;441;2024-12-15;Statistics;3.5;True
+11626;638;2024-10-19;SQL;3.6;True
+11122;911;2024-04-02;Machine Learning;3.5;False
+10082;491;2024-01-20;Economics;2.2;False
+10982;908;2024-07-14;Statistics;4.9;True
+10456;696;2024-10-20;Python;2.5;False
+11486;327;2024-03-06;SQL;5.7;False
+11079;844;2024-01-05;SQL;1.2;True
+11276;344;2024-11-13;SQL;4.6;False
+10689;224;2024-01-07;Python;6.7;True
+10381;167;2024-06-07;Economics;8.0;False
+10641;496;2024-10-18;Economics;3.2;True
+11954;348;2024-09-01;Python;7.4;False
+10777;133;2024-08-21;Python;7.4;True
+11490;912;2024-12-03;Machine Learning;4.9;False
+11010;672;2024-02-07;Machine Learning;2.7;True
+11654;738;2024-05-15;Statistics;7.8;True
+10466;219;2024-12-14;SQL;5.9;False
+10662;329;2024-06-13;SQL;3.6;False
+11756;375;2024-02-01;Statistics;4.0;False
+11669;525;2024-09-10;Machine Learning;5.0;False
+10253;587;2024-08-17;Statistics;4.3;True
+11860;986;2024-07-22;SQL;2.2;True
+10671;443;2024-01-01;Economics;error;False
+10389;729;2024-09-30;Python;4.3;True
+10446;956;2024-07-22;Economics;1.9;False
+10988;258;2024-08-06;Machine Learning;2.4;False
+10845;287;2024-02-28;Economics;3.5;False
+10542;670;2024-10-11;Machine Learning;3.6;True
+10091;738;2024-06-09;Python;5.9;False
+10127;872;2024-01-16;SQL;2.0;True
+11643;574;2024-12-12;SQL;5.4;True
+11196;294;2024-05-29;Economics;3.5;False
+11102;170;2024-09-28;SQL;3.9;False
+10536;542;2024-04-05;Machine Learning;5.5;True
+11829;324;2024-05-14;SQL;3.0;True
+10993;853;2024-03-11;Python;6.1;False
+11898;434;2024-12-09;Economics;4.1;True
+11415;853;2024-01-29;Machine Learning;7.6;False
+10481;708;2024-01-18;Economics;5.0;True
+11844;585;2024-05-17;Machine Learning;3.5;True
+11048;989;2024-03-26;Statistics;3.7;False
+10901;698;2024-05-10;Python;3.0;True
+11743;683;2024-09-24;SQL;  6.1  ;True
+10898;894;2024-04-09;Statistics;3.9;True
+11459;167;2024-10-29;Economics;1.2;False
+11673;584;2024-02-29;Economics;5.2;False
+10237;817;2024-06-03;Economics;1.4;True
+11559;532;2024-11-27;Python;2.0;False
+11846;505;2024-04-21;Statistics;3.7;False
+11133;371;2024-07-06;Machine Learning;2.4;False
+10832;623;2024-11-12;Python;2.6;True
+10094;793;2024-03-30;Machine Learning;4.8;False
+10163;404;2024-10-28;Economics;2.8;True
+11312;184;2024-03-05;Machine Learning;1.1;False
+11907;149;2024-07-12;SQL;7.5;False
+10252;229;2024-08-03;Machine Learning;1.4;True
+11841;271;2024-09-17;Economics;6.1;False
+11560;239;2024-01-15;Statistics;6.4;False
+10265;168;2024-02-16;Python;1.2;True
+12017;389;2024-12-22;SQL;5.8;False
+11598;114;2024-09-26;Economics;6.3;False
+10930;686;2024-11-01;Economics;4.5;True
+10129;677;2024-04-21;Economics;5.7;False
+11862;839;2024-08-24;Statistics;6.4;False
+10577;628;2024-03-30;Machine Learning;1.7;False
+11428;633;2024-11-17;Python;2.7;True
+11842;610;2024-09-22;Economics;1.8;False
+11694;938;2024-03-11;Python;6.9;False
+11549;511;2024-05-08;Machine Learning;4.4;True
+10947;932;2024-10-24;Machine Learning;3.5;True
+11030;112;2024-12-11;SQL;3.3;True
+11090;748;2024-08-10;Statistics;0.6;False
+10133;177;2024-10-30;SQL;1.3;False
+11485;276;2024-12-29;Statistics;0.7;True
+12011;746;2024-04-20;Economics;2.7;False
+11181;523;2024-07-29;Statistics;3.8;False
+11452;299;2024-09-08;Statistics;5.0;True
+10593;675;2024-09-15;Economics;3.6;False
+10677;545;2024-12-05;SQL;2.3;False
+10041;172;2024-12-28;Python;2.2;True
+11687;888;2024-10-12;Statistics;7.2;True
+11262;151;2024-03-07;Python;4.0;True
+11868;881;2024-12-19;Machine Learning;2.7;True
+12015;122;2024-10-07;Economics;3.0;False
+10243;201;2024-12-17;Statistics;4.6;False
+11124;460;2024-06-10;Machine Learning;7.9;False
+11339;887;2024-08-06;Statistics;2.4;True
+11670;137;2024-09-06;Economics;4.1;False
+11899;184;2024-10-07;SQL;5.9;False
+11510;510;2024-12-21;Machine Learning;7.8;True
+11442;514;2024-09-12;SQL;7.6;False
+10261;201;2024-12-25;Python;6.9;True
+11651;216;2024-12-04;Economics;1.8;True
+11489;875;2024-08-08;Python;2.0;True
+11219;566;2024-10-23;Statistics;7.5;True
+11430;398;2024-04-06;Python;0.7;True
+11203;835;2024-03-04;Python;1.4;False
+10834;951;2024-09-24;SQL;3.2;False
+10448;443;2024-05-25;Economics;7.9;False
+11727;672;2024-07-08;Python;5.0;False
+10760;977;2024-05-21;Machine Learning;3.9;True
+11666;596;2024-08-29;Python;6.9;True
+10340;661;2024-11-07;Machine Learning;3.7;False
+11944;363;2024-07-13;Economics;2.8;False
+11601;233;2024-08-08;SQL;5.0;False
+10748;145;2024-05-14;Economics;4.0;True
+11964;933;2024-03-14;Statistics;6.1;False
+10480;729;2024-01-09;SQL;2.0;True
+11724;849;2024-08-01;SQL;1.6;True
+10737;541;2024-11-30;SQL;5.1;False
+11523;540;2024-03-01;Economics;3.9;False
+11573;384;2024-03-15;Statistics;4.1;False
+10459;806;2024-03-01;Statistics;3.3;True
+10783;977;2024-04-23;SQL;5.6;False
+11012;810;2024-08-14;Economics;4.7;True
+11937;350;2024-08-05;SQL;5.0;False
+10799;787;2024-07-02;Machine Learning;2.8;True
+10455;341;2024-08-16;Statistics;7.7;False
+10977;946;2024-03-17;Machine Learning;1.2;False
+10405;610;2024-06-06;Economics;0.7;False
+11791;607;2024-07-04;Machine Learning;6.2;True
+11679;915;2024-08-29;SQL;5.2;False
+10285;885;2024-03-11;Statistics;2.7;True
+10320;258;2024-02-09;Statistics;6.8;True
+11854;904;2024-05-21;SQL;1.2;True
+11271;907;2024-06-15;Economics;4.2;True
+11540;807;2024-12-11;SQL;3.0;False
+10963;550;2024-03-25;SQL;1.1;False
+11127;484;2024-10-08;Statistics;3.2;False
+10626;109;2024-01-05;Statistics;6.6;False
+10347;499;2024-08-28;Python;5.3;False
+11913;538;2024-03-02;SQL;2.1;False
+10236;724;2024-04-23;Python;5.3;False
+11565;341;2024-02-27;Machine Learning;6.0;True
+10514;775;2024-09-06;Python;0.5;False
+10979;195;2024-09-03;SQL;7.3;True
+11423;581;2024-12-29;Machine Learning;  5.6  ;False
+10656;608;2024-08-21;Machine Learning;3.2;False
+12016;456;2024-07-19;Economics;1.0;False
+10911;629;2024-07-10;Machine Learning;6.5;False
+10054;258;2024-04-07;Statistics;2.1;True
+10632;521;2024-11-11;Economics;6.9;True
+11815;580;2024-06-07;Machine Learning;3.1;False
+10445;279;2024-08-01;SQL;7.5;True
+10617;679;2024-09-05;Statistics;7.2;True
+10207;765;2024-02-11;Statistics;6.9;False
+11987;794;2024-08-15;SQL;5.1;False
+11016;461;2024-09-21;Machine Learning;0.6;False
+11326;964;2024-08-09;Machine Learning;7.4;False
+10286;107;2024-09-11;Economics;1.8;False
+11500;550;2024-12-10;Python;1.9;False
+10452;279;2024-11-08;Economics;6.7;False
+11571;602;2024-09-30;Statistics;5.7;True
+11465;755;2024-11-21;Economics;1.4;False
+11737;783;2024-08-17;SQL;7.0;False
+11287;545;2024-06-25;Python;4.9;False
+10115;163;2024-04-15;Economics;3.4;True
+11494;192;2024-03-15;Statistics;7.6;False
+10353;137;2024-05-30;SQL;0.8;True
+11232;111;2024-11-23;SQL;5.7;False
+10613;565;2024-09-06;Statistics;4.9;True
+11720;183;2024-02-17;Python;3.7;True
+11788;809;2024-12-13;Machine Learning;5.1;False
+10726;455;2024-06-12;SQL;5.3;True
+11153;738;2024-03-15;Economics;0.8;True
+10341;343;2024-06-03;Python;0.9;False
+11282;171;2024-11-02;Python;5.6;False
+10057;158;2024-09-17;Python;6.9;True
+10380;922;2024-10-09;SQL;5.1;True
+11013;875;2024-06-22;Economics;5.6;True
+10066;548;2024-10-05;Statistics;5.1;True
+11585;530;2024-11-04;Machine Learning;6.0;False
+11253;145;2024-12-17;Machine Learning;7.0;False
+10775;418;2024-12-29;Machine Learning;3.5;True
+10148;413;2024-12-05;Machine Learning;3.3;False
+10159;603;2024-02-07;Machine Learning;5.2;True
+11824;577;2024-11-15;SQL;2.3;False
+10427;993;2024-02-01;SQL;4.4;False
+11975;596;2024-12-10;Python;0.6;False
+10955;164;2024-05-15;Statistics;2.3;True
+10111;550;2024-02-09;Statistics;2.3;False
+11897;138;2024-01-06;Statistics;1.4;True
+10560;825;2024-04-17;Economics;6.5;True
+10707;882;2024-04-22;Machine Learning;6.8;False
+11710;632;2024-10-03;Statistics;2.1;False
+10424;251;2024-12-14;SQL;  0.7  ;True
+11093;480;2024-02-15;SQL;1.7;True
+11376;526;2024-12-21;Economics;5.7;True
+10647;927;2024-03-20;Machine Learning;3.0;True
+10072;194;2024-11-20;Economics;6.7;True
+10352;746;2024-04-03;SQL;1.0;False
+11959;507;2024-12-27;Machine Learning;7.8;True
+11792;148;2024-05-22;Economics;4.5;False
+11005;785;2024-07-21;Economics;4.9;True
+10620;307;2024-12-18;SQL;7.1;False
+11712;347;2024-06-04;Economics;7.9;True
+10287;645;2024-12-26;SQL;4.3;False
+10553;550;2024-06-20;Economics;6.6;True
+11923;615;2024-10-27;Python;2.2;True
+11967;637;2024-08-01;Statistics;6.0;True
+11761;482;2024-10-03;SQL;6.4;False
+11554;964;2024-08-10;Economics;2.9;True
+10301;580;2024-08-14;Statistics;6.5;True
+10699;162;2024-02-14;Statistics;3.4;False
+11303;807;2024-02-10;SQL;6.0;False
+10998;327;2024-07-08;Python;5.1;False
+10458;414;2024-03-22;Economics;5.6;False
+11755;604;2024-09-17;Machine Learning;3.4;True
+10636;897;2024-12-19;Python;6.9;False
+11397;528;2024-03-28;Statistics;2.1;False
+11577;931;2024-12-16;Python;4.5;True
+11814;418;2024-10-25;Machine Learning;6.3;True
+11620;136;2024-08-28;Statistics;1.7;False
+10262;540;2024-08-19;SQL;3.6;False
+11343;211;2024-03-14;Machine Learning;6.3;True
+10769;445;2024-06-04;Statistics;2.6;False
+10920;517;2024-07-17;Economics;5.2;False
+11277;493;2024-02-03;Statistics;2.1;False
+10440;153;2024-02-21;Economics;3.0;False
+10508;363;2024-09-07;Economics;4.0;False
+11100;294;17-Oct-2024;SQL;4.6;False
+10589;688;2024-07-15;Economics;1.9;True
+10611;484;19-Aug-2024;Python;5.3;True
+10649;159;2024-05-05;Python;7.4;True
+11546;168;2024-10-17;Machine Learning;4.1;True
+11183;880;2024-11-09;Machine Learning;2.5;True
+11478;943;2024-03-14;Python;1.5;False
+10987;770;2024-04-15;Statistics;3.6;True
+10418;707;2024-06-21;Machine Learning;6.7;False
+11903;793;2024-05-19;SQL;3.8;True
+10804;480;2024-05-13;Machine Learning;2.7;True
+11455;459;2024-06-06;Economics;7.1;True
+10661;283;2024-01-19;Machine Learning;6.5;False
+10660;350;2024-01-24;Economics;3.2;True
+10630;170;2024-09-28;Machine Learning;0.6;True
+10672;206;2024-04-15;Machine Learning;7.9;False
+11249;294;2024-06-23;Economics;6.0;False
+11804;204;2024-12-12;Python;4.7;False
+10482;350;2024-01-23;Economics;3.8;True
+11584;944;2024-03-23;Statistics;4.3;False
+10686;625;2024-01-26;Statistics;2.5;True
+10580;560;2024-10-30;Economics;3.4;True
+12012;160;2024-06-19;SQL;6.7;True
+11462;396;2024-10-10;Economics;0.8;False
+10992;414;2024-10-22;Statistics;6.3;False
+11699;921;2024-08-07;Economics;7.4;False
+10914;891;2024-10-02;Machine Learning;0.6;True
+10145;187;2024-05-03;Economics;4.2;True
+10856;617;2024-08-28;Economics;7.0;True
+11225;595;2024-12-18;Machine Learning;7.5;False
+11190;281;2024-08-12;Machine Learning;4.2;False
+11083;285;2024-04-08;Statistics;6.6;True
+11635;194;2024-07-23;Statistics;1.8;False
+10530;793;2024-10-03;Statistics;3.4;True
+10663;377;2024-02-09;Machine Learning;3.3;True
+10049;995;2024-02-08;Economics;6.6;True
+11603;911;2024-03-15;Python;2.7;False
+11865;483;2024-03-12;Machine Learning;7.1;False
+10858;151;2024-09-16;SQL;4.6;False
+11870;681;2024-11-18;Machine Learning;7.4;False
+11072;948;2024-07-12;SQL;2.5;False
+10719;910;2024-11-23;Economics;5.4;True
+10151;423;2024-03-02;Machine Learning;7.6;True
+10583;786;2024-09-07;Machine Learning;7.7;False
+10681;560;2024-08-26;Statistics;3.5;False
+11660;923;2024-06-03;Python;1.4;True
+11656;992;2024-12-10;Python;3.8;True
+10377;407;2024-03-21;SQL;6.5;True
+10983;535;2024-03-09;Statistics;4.1;True
+10009;847;2024-08-23;Machine Learning;1.4;False
+10520;570;2024-10-16;SQL;7.9;True
+11049;969;2024-02-06;Python;1.7;True
+11942;120;2024-07-14;Economics;6.9;False
+10725;608;2024-03-13;Statistics;6.1;True
+11300;691;2024-09-12;SQL;5.8;False
+11141;426;2024-10-03;Machine Learning;1.6;True
+10886;827;2024-02-29;Statistics;4.7;False
+12009;864;2024-12-06;Python;5.0;False
+11853;467;2024-02-12;Statistics;6.8;True
+10558;473;2024-02-28;Machine Learning;2.0;True
+11385;314;2024-08-10;Statistics;3.0;False
+11708;814;2024-06-25;Economics;6.3;False
+11399;188;2024-07-29;Machine Learning;4.2;True
+11195;671;2024-07-17;Machine Learning;6.2;True
+11408;265;2024-12-26;Economics;6.9;True
+11475;626;2024-15-01;SQL;6.2;True
+11107;884;2024-10-09;SQL;5.1;False
+10035;231;2024-12-03;Economics;7.6;True
+10951;472;2024-09-14;Python;5.5;True
+10297;341;2024-02-22;SQL;2.4;True
+10444;887;2024-02-15;Machine Learning;2.2;True
+11264;283;2024-12-26;Machine Learning;7.2;False
+10311;795;2024-11-02;Python;6.4;False
+10958;954;2024-05-14;Machine Learning;4.6;True
+11606;236;2024-06-14;Economics;5.7;False
+10158;358;2024-09-01;Python;6.7;False
+10908;217;2024-12-08;Statistics;3.8;True
+11902;227;2024-09-30;Economics;1.8;True
+11609;582;2024-06-30;Machine Learning;7.5;True
+11131;122;2024-12-19;Statistics;7.4;True
+11374;896;2024-03-21;Python;7.1;True
+11286;300;2024-04-15;Statistics;2.7;False
+11482;527;2024-08-23;Python;1.4;True
+10349;346;2024-12-02;Python;6.3;False
+11368;164;2024-04-13;Economics;3.0;False
+10089;360;2024-01-23;Economics;0.5;True
+10643;114;2024-05-14;SQL;  0.8  ;True
+11930;967;2024-06-18;Statistics;2.3;True
+10001;328;2024-03-12;Python;5.6;True
+11681;260;2024-11-06;Economics;1.3;False
+10669;850;2024-10-06;SQL;1.6;False
+11443;259;2024-01-03;Machine Learning;7.8;False
+10105;151;2024-10-12;SQL;7.4;True
+11167;612;2024-08-22;Machine Learning;7.4;True
+11961;358;2024-12-20;Statistics;4.3;False
+11890;345;2024-03-21;Statistics;7.1;False
+11179;169;2024-10-12;Machine Learning;7.6;True
+10750;187;2024-12-08;Statistics;6.6;False
+11692;845;2024-05-29;Economics;6.2;False
+11562;839;2024-09-05;Python;0.9;True
+11922;723;2024-10-26;Economics;3.4;True
+11587;745;2024-08-15;SQL;0.5;True
+10372;126;2024-04-05;Economics;4.4;True
+11007;843;2024-10-13;Machine Learning;3.1;False
+10963;550;2024-03-25;SQL;1.1;False
+11357;852;2024-04-07;SQL;0.8;True
+11971;928;2024-04-08;Statistics;7.9;False
+10786;329;09-May-2024;Machine Learning;6.5;False
+10469;672;2024-08-24;Statistics;5.9;False
+10140;430;2024-05-05;Python;2.6;False
+10788;972;2024-06-27;Economics;N/A;False
+10323;266;2024-04-02;Machine Learning;6.6;True
+11806;338;2024-11-02;Machine Learning;0.6;False
+10050;151;2024-11-29;Machine Learning;6.8;True
+10714;925;2024-03-07;Statistics;5.9;False
+11827;245;2024-05-28;Economics;2.0;False
+10792;800;2024-02-25;Economics;1.0;False
+10398;982;2024-06-12;Statistics;7.8;True
+11147;672;2024-04-11;Economics;3.5;True
+11140;749;2024-11-19;Economics;0.9;True
+11838;908;2024-03-17;Statistics;  2.4  ;False
+10335;495;2024-02-11;Statistics;2.2;False
+11980;798;2024-06-24;Statistics;6.6;False
+10618;147;2024-02-20;Economics;0.6;True
+10406;617;2024-08-22;SQL;2.1;False
+10020;317;2024-12-01;Economics;3.5;False
+11004;261;2024-02-14;Statistics;6.3;False
+11966;101;2024-02-19;Python;6.3;False
+10890;393;2024-12-15;Statistics;1.6;True
+10363;270;2024-12-19;Economics;3.1;True
+10497;590;2024-04-16;Statistics;2.8;True
+11837;147;2024-11-11;Machine Learning;1.9;False
+11349;627;2024-12-28;Economics;4.1;False
+10342;754;2024-11-14;Economics;1.0;False
+10943;556;2024-07-02;Statistics;4.2;True
+10042;980;2024-06-18;Python;4.4;False
+10782;150;2024-03-24;Machine Learning;6.3;True
+11763;949;2024-11-13;Statistics;5.4;True
+11323;585;2024-05-14;SQL;4.5;False
+10974;738;2024-12-03;Machine Learning;2.5;False
+12032;123;2024-10-27;Machine Learning;7.9;False
+10303;138;2024-01-30;Statistics;6.7;True
+11156;989;2024-05-27;Python;3.1;True
+10011;691;2024-04-08;Python;0.8;True
+10664;283;2024-04-24;Machine Learning;7.9;False
+11177;983;2024-03-11;Statistics;  5.7  ;True
+11244;985;2024-06-06;Statistics;5.8;False
+10628;191;2024-02-22;Python;2.9;False
+10453;188;2024-07-24;Python;1.9;True
+11473;379;2024-07-03;Economics;5.3;False
+10815;848;2024-07-10;Python;7.2;True
+10327;955;2024-04-09;Statistics;5.6;False
+11817;158;2024-05-01;Machine Learning;6.6;True
+10084;508;2024-06-17;Statistics;7.0;False
+11026;868;2024-10-22;SQL;0.9;False
+11800;740;2024-08-16;Machine Learning;1.4;True
+10941;352;2024-04-23;Economics;2.6;False
+10961;628;2024-07-26;Statistics;6.6;False
+10841;995;2024-01-21;Statistics;3.2;False
+10973;324;2024-07-29;Machine Learning;1.6;True
+11645;547;2024-02-10;Economics;2.8;True
+10967;762;2024-07-29;Python;2.3;True
+10866;673;2024-11-13;Machine Learning;4.0;False
+11290;212;2024-05-24;Python;2.3;False
+10101;725;2024-02-07;Economics;3.6;True
+10290;826;2024-11-23;Economics;2.7;False
+11520;776;2024-09-23;Economics;6.4;True
+10735;849;2024-02-08;Machine Learning;7.6;True
+10304;760;2024-02-16;Machine Learning;5.0;False
+11440;781;2024-06-11;Statistics;1.6;False
+11496;617;2024-10-18;Python;1.2;True
+10604;730;2024-03-12;SQL;6.6;True
+10827;777;2024-02-25;Python;0.9;True
+10916;955;2024-02-23;SQL;4.5;False
+10142;444;2024-01-15;Economics;6.9;True
+10710;820;2024-12-24;Statistics;7.6;True
+11099;823;2024-08-12;Machine Learning;2.7;False
+11088;359;2024-09-03;Statistics;2.0;True
+11678;840;2024-12-30;Economics;7.7;False
+10724;928;2024-11-09;SQL;5.3;True
+11624;989;2024-05-25;SQL;6.8;False
+10454;588;2024-06-14;SQL;0.6;False
+10821;803;2024-03-09;Statistics;8.0;False
+11367;937;2024-02-24;Python;4.2;True
+11664;188;03-Jun-2024;Economics;1.6;False
+11354;878;2024-05-28;SQL;1.8;True
+11388;340;2024-08-15;Machine Learning;4.8;False
+10850;983;2024-12-16;SQL;4.1;False
+11302;681;2024-09-04;Statistics;1.3;False
+11000;892;Mar 30, 2024;Economics;3.8;True
+10396;805;2024-01-31;SQL;3.8;False
+11617;629;2024-06-09;Economics;7.2;False
+11505;567;2024-11-03;Statistics;5.7;False
+11477;377;2024-12-16;Statistics;1.2;False
+10018;963;2024-01-29;SQL;6.7;False
+11637;391;2024-11-27;SQL;1.4;False
+11667;306;2024-05-30;Machine Learning;6.7;False
+10493;497;2024-05-04;Statistics;2.0;True
+11125;965;2024-07-09;Economics;6.2;False
+11404;535;2024-09-28;Economics;4.1;True
+11633;316;2024-01-25;Statistics;2.9;True
+11347;768;2024-11-23;Python;7.5;False
+10970;629;2024-07-26;Machine Learning;7.8;True
+10488;452;2024-11-25;Economics;6.4;False
+11182;255;2024-04-06;Python;1.5;True
+10588;810;2024-03-13;Machine Learning;3.4;True
+12023;794;2024-03-16;Economics;7.6;False
+10584;711;2024-07-17;Machine Learning;3.4;True
+10780;281;2024-08-30;Machine Learning;4.6;False
+10687;131;2024-07-26;Economics;4.7;True
+11112;150;2024-07-06;SQL;5.0;True
+11704;688;2024-01-30;Machine Learning;7.8;False
+10211;554;2024-03-26;Statistics;7.3;True
+11608;670;2024-01-31;Python;3.0;True
+10574;199;2024-08-12;Economics;2.9;False
+10703;284;2024-01-14;Statistics;5.0;True
+11009;688;2024-01-03;Statistics;1.8;True
+11243;684;2024-11-06;Economics;1.9;True
+11625;676;2024-12-05;Machine Learning;2.1;True
+10360;180;2024-08-08;Machine Learning;8.0;True
+11092;143;2024-10-24;Economics;5.7;True
+11327;443;2024-05-18;Statistics;6.5;False
+11076;752;2024-08-21;Machine Learning;3.9;False
+11677;716;2024-12-02;Economics;1.5;False
+11310;162;2024-11-18;Economics;4.8;True
+11170;463;Nov 16, 2024;Statistics;2.3;False
+12028;409;2024-12-18;Machine Learning;7.7;False
+10800;960;2024-12-02;Machine Learning;1.9;True
+10813;232;2024-11-10;Economics;5.3;False
+10344;835;2024-03-14;Statistics;3.7;False
+11863;966;2024-04-06;Economics;6.3;False
+10986;691;2024-09-24;Python;4.4;False
+10587;220;2024-05-02;Statistics;1.4;False
+11904;321;2024-01-18;Machine Learning;2.1;True
+10743;943;2024-12-04;Machine Learning;4.1;True
+10302;460;2024-09-16;Python;2.8;False
+11671;337;2024-02-01;Machine Learning;0.6;False
+11561;774;2024-10-08;SQL;5.3;True
+11168;140;2024-05-06;Machine Learning;2.8;False
+10113;492;2024-12-21;SQL;5.8;True
+11437;286;2024-03-30;SQL;1.7;True
+11999;769;2024-11-24;Machine Learning;7.7;False
+11241;918;2024-06-30;Python;7.8;False
+11142;256;2024-01-26;Economics;7.8;True
+10310;472;2024-07-09;Statistics;3.4;False
+11216;137;2024-03-15;Python;5.5;False
+11825;926;2024-07-11;SQL;3.5;True
+11198;727;2024-01-28;Machine Learning;missing;False
+10085;459;2024-11-24;Machine Learning;3.5;False
+11518;794;2024-01-14;SQL;3.4;False
+10516;117;2024-09-14;Economics;6.5;True
+11381;220;2024-09-28;Python;5.1;True
+11375;106;2024-01-04;SQL;-5.0;False
+10668;575;2024-07-07;Machine Learning;7.8;True
+10693;928;2024-03-06;Python;7.3;False
+11014;593;2024-02-29;Statistics;1.0;True
+10128;736;2024-03-19;SQL;1.4;True
+11364;582;2024-11-12;Python;2.3;True
+11031;433;2024-07-04;Machine Learning;7.0;True
+10374;810;2024-09-08;SQL;1.4;True
+10891;807;2024-05-31;SQL;6.2;True
+10745;584;2024-02-29;Statistics;6.4;False
+11969;598;2024-04-03;Machine Learning;7.6;False
+11359;911;2024-10-03;Statistics;4.2;False
+10307;613;unknown;Python;3.9;False
+11836;425;2024-11-02;Economics;7.8;True
+11661;295;2024-02-27;Python;5.7;True
+10383;228;2024-06-11;Python;3.9;False
+10150;377;2024-06-05;Statistics;2.2;True
+11875;303;2024-02-05;Economics;2.6;True
+11317;451;2024-02-13;SQL;5.0;True
+11451;793;2024-12-09;Python;7.8;False
+10918;138;2024-02-14;Python;-5.0;False
+11201;431;2024-08-18;Python;1.8;True
+10426;522;2024-12-19;SQL;3.6;False
+10494;560;2024-07-08;Python;4.5;True
+11207;679;2024-12-03;SQL;1.7;True
+11246;562;2024-06-03;SQL;4.4;True
+11062;705;Nov 01, 2024;Economics;5.2;False
+11208;283;2024-12-30;Python;3.6;False
+11820;811;2024-12-20;Economics;5.0;False
+11329;851;2024-12-10;Machine Learning;6.3;False
+10216;337;2024-08-24;Statistics;3.9;True
+10125;119;2024-10-03;Python;8.0;False
+11834;999;2024-12-30;Python;1.4;True
+10591;422;2024-08-18;Machine Learning;0.9;False
+11239;860;2024-01-29;Machine Learning;2.7;False
+10241;730;2024-07-27;Statistics;0.7;False
+10692;122;2024-02-03;SQL;7.3;False
+10275;990;2024-03-14;Machine Learning;5.4;True
+10489;813;2024-08-01;Economics;1.6;False
+11035;561;2024-04-02;Machine Learning;1.5;True
+11229;298;2024-01-01;Python;0.7;True
+10690;233;2024-04-11;Economics;3.3;True
+11008;331;2024-11-06;SQL;3.9;False
+11184;710;2024-04-28;SQL;5.7;False
+10836;804;2024-09-03;Statistics;2.3;True
+11082;157;2024-05-16;Economics;1.0;False
+11780;296;2024-02-16;Machine Learning;5.2;True
+10484;339;2024-10-21;Statistics;4.8;False
+10197;843;2024-06-01;Machine Learning;4.8;False
+11058;855;2024-05-25;Economics;5.2;True
+10118;599;2024-04-22;Statistics;3.8;True
+11024;480;2024-11-13;Statistics;4.2;False
+10796;838;2024-01-14;Economics;8.0;False
+10281;524;2024-05-19;SQL;6.2;True
+11043;366;2024-07-03;Statistics;4.7;False
+11316;901;2024-12-24;SQL;4.1;True
+10510;636;2024-01-18;Python;7.6;True
+10968;687;2024-10-30;SQL;1.5;True
+11665;122;2024-02-29;SQL;7.3;False
+10333;193;2024-04-23;Economics;7.1;True
+11905;956;2024-11-21;Machine Learning;5.3;True
+11939;378;2024-09-03;Python;7.6;False
+10956;630;2024-07-03;Economics;4.0;False
+11274;515;2024-02-24;Statistics;4.7;True
+10619;551;2024-08-21;Python;7.9;False
+11925;161;2024-03-11;Statistics;4.2;True
+11742;759;2024-10-13;Python;1.9;True
+11390;433;2024-04-26;Python;2.3;False
+10155;155;2024-10-10;Statistics;5.7;True
+11847;685;2024-03-21;Statistics;2.4;True
+11579;361;2024-06-03;Python;7.5;True
+11655;316;2024-04-04;Python;6.1;False
+12020;691;2024-03-11;Economics;5.7;False
+11956;367;2024-11-05;Economics;7.6;True
+11307;580;2024-08-20;Machine Learning;7.3;False
+12003;489;2024-10-22;Python;2.8;True
+10575;145;2024-12-29;Python;0.7;False
+11706;452;2024-01-05;Statistics;7.3;True
+11799;174;2024-11-03;Machine Learning;3.8;True
+11280;217;2024-10-30;Machine Learning;4.0;True
+10861;863;2024-11-30;Python;1.3;False
+11801;134;2024-07-12;Statistics;7.2;True
+11628;391;14-Dec-2024;Python;3.5;True
+11993;349;2024-04-18;SQL;6.1;True
+10269;206;2024-10-22;Machine Learning;2.1;False
+10629;240;2024-07-14;SQL;5.3;True
